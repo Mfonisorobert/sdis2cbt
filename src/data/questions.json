@@ -1,311 +1,623 @@
 [
+  {
+      "instruction": "Answer the question by choosing the correct option.",
+      "questions": [
   
-  
-      
-        {
-          "number": 1,
-          "question": "What is the place value of 3 in 162.345?",
-          "options": ["3 unit", "3 tenth", "3 hundred", "3 hundredth"],
-          "answer": "3 tenth"
-        },
-        {
-          "number": 2,
-          "question": "Express 108 as a product of its prime factors in index form",
-          "options": ["2^2×3^2", "2^2×2^4", "2^2×3^3", "2^3×3^2"],
-          "answer": "2^2×3^3"
-        },
-        {
-          "number": 3,
-          "question": "Find the square root of 6^(1/4)",
-          "options": ["1/5", "2/5", "1/2", "2 1/2"],
-          "answer": "2 1/2"
-        },
-        {
-          "number": 4,
-          "question": "Which of the following is a perfect square?",
-          "options": ["18", "22", "25", "27"],
-          "answer": "25"
-        },
-        {
-          "number": 5,
-          "question": "Simplify [2 + 3 - 2×5 + 4(3×2)]",
-          "options": ["19", "22", "31", "39"],
-          "answer": "19"
-        },
-        {
-          "number": 6,
-          "question": "Express 2.160 as a fraction in its lowest term",
-          "options": ["2 1/25", "2 2/25", "2 3/25", "2 4/25"],
-          "answer": "2 4/25"
-        },
-        {
-          "number": 7,
-          "question": "Find the LCM of 36, 24 and 81",
-          "options": ["141", "216", "324", "648"],
-          "answer": "648"
-        },
-        {
-          "number": 8,
-          "question": "Which of the following is a prime factor of 100?",
-          "options": ["5", "10", "20", "25"],
-          "answer": "5"
-        },
-        {
-          "number": 9,
-          "question": "Simplify 16/22(5/8+3/4)",
-          "options": ["1", "2", "3", "4"],
-          "answer": "1"
-        },
-        {
-          "number": 10,
-          "question": "If today is 2nd January, what will be the date in P days’ time? (Still January)",
-          "options": ["P + 31", "15 + P", "2 + P", "1 + P"],
-          "answer": "2 + P"
-        },
-        {
-          "number": 11,
-          "question": "Find the difference between 2x kg and 55x g. Give your answer in grams",
-          "options": ["53x", "57x", "255x", "1945x"],
-          "answer": "1945x"
-        },
-        {
-          "number": 12,
-          "question": "Write in figures: Seven hundred and eighty-one thousand four hundred and fifty-two naira, sixty-three kobo",
-          "options": ["N781,254.63", "N781,452.36", "N781,452.63", "N781,542.63"],
-          "answer": "N781,452.63"
-        },
-        {
-          "number": 13,
-          "question": "Reduce 280/360 to the lowest term",
-          "options": ["7/9", "7/18", "14/18", "28/36"],
-          "answer": "7/9"
-        },
-        {
-          "number": 14,
-          "question": "Evaluate 1570 + 423, leaving your answer in Roman Numerals",
-          "options": ["MCMXCIII", "MCMIII", "XCIII", "MCMCXIII"],
-          "answer": "MCMXCIII"
-        },
-        {
-          "number": 15,
-          "question": "Which of these numbers is a multiple of 2?",
-          "options": ["13", "15", "21", "40"],
-          "answer": "40"
-        },
-        {
-          "number": 16,
-          "question": "Evaluate 1505/35",
-          "options": ["32", "43", "47", "49"],
-          "answer": "43"
-        },
-        {
-          "number": 17,
-          "question": "A man is x years old. How old was he 10 years ago?",
-          "options": ["20 years", "(x+10) years", "(x-10) years", "(10-x) years"],
-          "answer": "(x-10) years"
-        },
-        {
-          "number": 18,
-          "question": "Evaluate -6 + (-40)",
-          "options": ["-10", "10", "2", "-6"],
-          "answer": "-10"
-        },
-        {
-          "number": 19,
-          "question": "What is the positive difference between 362 and 295?",
-          "options": ["42", "62", "67", "657"],
-          "answer": "67"
-        },
-        {
-          "number": 20,
-          "question": "Simplify (√25)^3",
-          "options": ["5", "25", "75", "125"],
-          "answer": "125"
-        },
-        {
-          "number": 21,
-          "question": "Simplify -3 - (-21) - 18",
-          "options": ["0", "6", "36", "-42"],
-          "answer": "0"
-        },
-        {
-          "number": 22,
-          "question": "Subtract one hundred and four from five hundred and thirty-nine",
-          "options": ["104", "335", "425", "435"],
-          "answer": "435"
-        },
-        {
-          "number": 23,
-          "question": "Find the HCF of 15, 20 and 35",
-          "options": ["2", "3", "4", "5"],
-          "answer": "5"
-        },
-        {
-          "number": 24,
-          "question": "One of these numbers is a factor of 12",
-          "options": ["5", "6", "9", "24"],
-          "answer": "6"
-        },
-        {
-          "number": 25,
-          "question": "Find the value of VLII in numbers",
-          "options": ["52", "57", "552", "5052"],
-          "answer": "57"
-        },
-        {
-          "number": 26,
-          "question": "Which of the following is a composite number?",
-          "options": ["5", "7", "9", "11"],
-          "answer": "9"
-        },
-        {
-          "number": 27,
-          "question": "Which of these is not a multiple of 15?",
-          "options": ["45", "75", "90", "110"],
-          "answer": "110"
-        },
-        {
-          "number": 28,
-          "question": "Express 25/3 as a mixed number",
-          "options": ["1 3/8", "3 1/8", "8 1/3", "8 3/8"],
-          "answer": "8 1/3"
-        },
-        {
-          "number": 29,
-          "question": "Find the HCF of 15ab^2 and 6a^2b",
-          "options": ["ab", "2ab", "3ab", "3ab^2"],
-          "answer": "3ab"
-        },
-        {
-          "number": 30,
-          "question": "Evaluate –(25)^2",
-          "options": ["5", "-5", "625", "-625"],
-          "answer": "-625"
-        },
-        {
-          "number": 31,
-          "question": "Simplify (40-17)×(50÷5)",
-          "options": ["23", "115", "203", "230"],
-          "answer": "230"
-        },
-        {
-          "number": 32,
-          "question": "Find the square root of 2 7/9",
-          "options": ["1 2/3", "2 1/2", "3/5", "7/9"],
-          "answer": "1 2/3"
-        },
-        {
-          "number": 33,
-          "question": "Which of the following numbers is not divisible by both 3 and 5?",
-          "options": ["40", "60", "75", "210"],
-          "answer": "40"
-        },
-        {
-          "number": 34,
-          "question": "Evaluate 1/36 of 3024",
-          "options": ["24", "436", "84", "94"],
-          "answer": "84"
-        },
-        {
-          "number": 35,
-          "question": "Simplify (-15)+4÷(5-3)",
-          "options": ["13", "-13", "17", "-17"],
-          "answer": "-13"
-        },
-        {
-          "number": 36,
-          "question": "Find the square root of 8100",
-          "options": ["9", "90", "9000"],
-          "answer": "90"
-        },
-        {
-          "number": 37,
-          "question": "Arrange the fractions in ascending order: 3/8, 2/7, 5/11, 4/5",
-          "options": [
-            "2/7, 3/8, 4/5, 5/11",
-            "3/8, 2/7, 5/11, 4/5",
-            "4/5, 2/7, 3/8, 5/11",
-            "2/7, 3/8, 5/11, 4/5"
-          ],
-          "answer": "2/7, 3/8, 5/11, 4/5"
-        },
-        {
-          "number": 38,
-          "question": "Convert 9 2/7 to improper fraction",
-          "options": ["7/65", "63/7", "65/7", "18/7"],
-          "answer": "65/7"
-        },
-        {
-          "number": 39,
-          "question": "Express 45 minutes as a fraction of an hour",
-          "options": ["1/4", "3/4", "9/20", "11/20"],
-          "answer": "3/4"
-        },
-        {
-          "number": 40,
-          "question": "Express 0.68 as a fraction",
-          "options": ["1/2", "17/25", "25/34", "27/50"],
-          "answer": "17/25"
-        },
-        {
-          "number": 41,
-          "question": "The product of 0.017 and 100 is",
-          "options": ["0.0017", "0.017", "0.7", "1.7"],
-          "answer": "1.7"
-        },
-        {
-          "number": 42,
-          "question": "Subtract 18 from the product of -6 and 3",
-          "options": ["36", "-36", "-18", "0"],
-          "answer": "-36"
-        },
-        {
-          "number": 43,
-          "question": "Express 20% as a decimal number",
-          "options": ["2.00", "0.70", "0.50", "0.20"],
-          "answer": "0.20"
-        },
-        {
-          "number": 44,
-          "question": "Write 672 in Roman figures",
-          "options": ["DCCXXII", "DCLXXII", "DCLXXXII", "DCLXXXIV"],
-          "answer": "DCLXXII"
-        },
-        {
-          "number": 45,
-          "question": "Simplify 1200 ÷ 0.12",
-          "options": ["10000", "1000", "100", "10"],
-          "answer": "10000"
-        },
-        {
-          "number": 46,
-          "question": "Find the difference between 3 4/5 and 3/4",
-          "options": ["3 2/3", "3 1/10", "3 1/5", "3 1/20"],
-          "answer": "3 1/20"
-        },
-        {
-          "number": 47,
-          "question": "Express MMXL in figures",
-          "options": ["1034", "1940", "2040", "2134"],
-          "answer": "2040"
-        },
-        {
-          "number": 48,
-          "question": "Reduce 36/72 to its lowest term",
-          "options": ["1/2", "1/3", "1/5", "1/6"],
-          "answer": "1/2"
-        },
-        {
-          "number": 49,
-          "question": "Which of the following is NOT a pair of equivalent fractions?",
-          "options": ["3/5,12/20", "2/3,9/20", "3/5,18/30", "1/2,12/24"],
-          "answer": "2/3,9/20"
-        },
-        {
-          "number": 50,
-          "question": "The place value of 7 in 592.367 is",
-          "options": ["7 tenths", "7 hundredth", "7 thousandths", "7 tens"],
-          "answer": "7 thousandths"
-        }
-      ]
-    
+    {
+      "number": 1,
+      "question": "Which of the following statements is not true according to the passage?",
+      "options": [
+        "Ada was nervous on her first day.",
+        "Her roommates were harsh and unfriendly.",
+        "She admired older students in uniform.",
+        "Ada learned to manage her time.",
+        "Boarding life was not as easy as she imagined."
+      ],
+      "answer": "She admired older students in uniform."
+    },
+    {
+      "number": 2,
+      "question": "According to the passage, Ada began to appreciate school life because it",
+      "options": [
+        "allowed her to sleep more often",
+        "gave her freedom and discipline",
+        "reminded her of home every day",
+        "required less effort than expected",
+        "was full of food and laughter"
+      ],
+      "answer": "gave her freedom and discipline"
+    },
+    {
+      "number": 3,
+      "question": "The phrase “earn her extra chores” means",
+      "options": [
+        "she was rewarded with food",
+        "she was praised for good work",
+        "she was punished with more duties",
+        "she was excused from tasks",
+        "she was allowed to rest"
+      ],
+      "answer": "she was punished with more duties"
+    },
+    {
+      "number": 4,
+      "question": "The word “independence” as used in the passage can best be replaced with",
+      "options": [
+        "laziness",
+        "freedom",
+        "stubbornness",
+        "teamwork",
+        "loneliness"
+      ],
+      "answer": "freedom"
+    },
+    {
+      "number": 5,
+      "question": "The writer’s main purpose is to",
+      "options": [
+        "criticize boarding schools",
+        "narrate Ada’s experiences and lessons",
+        "describe senior students’ behavior",
+        "explain the importance of chores",
+        "warn students against leaving home"
+      ],
+      "answer": "narrate Ada’s experiences and lessons"
+    },
+    {
+      "number": 6,
+      "question": "I will not go to the market until my mother __.",
+      "options": [
+        "arrives",
+        "arrived",
+        "has arrive",
+        "arriving",
+        "arrive"
+      ],
+      "answer": "arrives"
+    },
+    {
+      "number": 7,
+      "question": "The woman __ purse was stolen reported the case to the police.",
+      "options": [
+        "that",
+        "who",
+        "whom",
+        "whose",
+        "which"
+      ],
+      "answer": "whose"
+    },
+    {
+      "number": 8,
+      "question": "We were all surprised that he could sing __ well.",
+      "options": [
+        "so",
+        "too",
+        "quite",
+        "very",
+        "most"
+      ],
+      "answer": "so"
+    },
+    {
+      "number": 9,
+      "question": "If I __ you, I would apologize immediately.",
+      "options": [
+        "is",
+        "was",
+        "am",
+        "were",
+        "be"
+      ],
+      "answer": "were"
+    },
+    {
+      "number": 10,
+      "question": "The manager promised to look __ the matter.",
+      "options": [
+        "on",
+        "into",
+        "at",
+        "for",
+        "after"
+      ],
+      "answer": "into"
+    },
+    {
+      "number": 11,
+      "question": "The doctor advised me to take my medicine according to the ____ on the bottle.",
+      "options": [
+        "direction",
+        "instruction",
+        "prescription",
+        "description",
+        "decoration"
+      ],
+      "answer": "prescription"
+    },
+    {
+      "number": 12,
+      "question": "The farmer stored his grains in a large ____.",
+      "options": [
+        "library",
+        "barn",
+        "garage",
+        "factory",
+        "basket"
+      ],
+      "answer": "basket"
+    },
+    {
+      "number": 13,
+      "question": "The soldiers were praised for their ____ during the rescue mission.",
+      "options": [
+        "laziness",
+        "bravery",
+        "hesitation",
+        "delay",
+        "pride"
+      ],
+      "answer": "bravery"
+    },
+    {
+      "number": 14,
+      "question": "The teacher told the students to keep their books in good ____.",
+      "options": [
+        "shape",
+        "look",
+        "size",
+        "fashion",
+        "position"
+      ],
+      "answer": "shape"
+    },
+    {
+      "number": 15,
+      "question": "The new principal promised to ____ discipline in the school.",
+      "options": [
+        "introduce",
+        "install",
+        "insist",
+        "maintain",
+        "instruct"
+      ],
+      "answer": "install"
+    },
+    {
+      "number": 16,
+      "question": "The patient was ____ with typhoid fever.",
+      "options": [
+        "described",
+        "designed",
+        "diagnosed",
+        "discovered",
+        "directed"
+      ],
+      "answer": "diagnosed"
+    },
+    {
+      "number": 17,
+      "question": "The ____ prepared a delicious meal for the guests.",
+      "options": [
+        "waiter",
+        "chef",
+        "cleaner",
+        "hostess",
+        "butcher"
+      ],
+      "answer": "chef"
+    },
+    {
+      "number": 18,
+      "question": "The ____ presented strong evidence in court.",
+      "options": [
+        "judge",
+        "defendant",
+        "lawyer",
+        "clerk",
+        "witness"
+      ],
+      "answer": "lawyer"
+    },
+    {
+      "number": 19,
+      "question": "The baby cried because her toy was ____.",
+      "options": [
+        "lost",
+        "found",
+        "clean",
+        "present",
+        "shining"
+      ],
+      "answer": "lost"
+    },
+    {
+      "number": 20,
+      "question": "Our school library is known for its wide ____ of books.",
+      "options": [
+        "selection",
+        "portion",
+        "picture",
+        "reflection",
+        "expansion"
+      ],
+      "answer": "selection"
+    }
+  ]
+  },
+{
+  "instruction": "Complete each of the following sentences with the most appropriate option.",
+  "questions": [
+    {
+      "number": 21,
+      "question": "The boys bought _______ storybooks at the fair.",
+      "options": [
+        "three interesting small",
+        "small interesting three",
+        "interesting three small",
+        "three small interesting",
+        "small three interesting"
+      ],
+      "answer": "three small interesting"
+    },
+    {
+      "number": 22,
+      "question": "Active voice: The students are painting the classroom. Passive voice: The classroom _______ by the students.",
+      "options": [
+        "is being painted",
+        "was painted",
+        "will be painted",
+        "has been painted",
+        "were painted"
+      ],
+      "answer": "is being painted"
+    },
+    {
+      "number": 23,
+      "question": "Direct Speech: “I am studying for my test,” said Peter. Indirect Speech: Peter said that he _______ for his test.",
+      "options": [
+        "studied",
+        "is studying",
+        "was studying",
+        "has studied",
+        "studies"
+      ],
+      "answer": "was studying"
+    },
+    {
+      "number": 24,
+      "question": "The train had left _______ we arrived at the station.",
+      "options": [
+        "before",
+        "after",
+        "until",
+        "when",
+        "since"
+      ],
+      "answer": "before"
+    },
+    {
+      "number": 25,
+      "question": "Each of the girls _______ given a new uniform.",
+      "options": [
+        "were",
+        "are",
+        "is",
+        "have",
+        "be"
+      ],
+      "answer": "were"
+    },
+    {
+      "number": 26,
+      "question": "Tunde plays football every evening, _______ he?",
+      "options": [
+        "do",
+        "doesn't",
+        "does",
+        "did",
+        "didn't"
+      ],
+      "answer": "doesn't"
+    },
+    {
+      "number": 27,
+      "question": "Passive voice: The hall will be decorated by the prefects. Active voice: The prefects _______ the hall.",
+      "options": [
+        "are decorating",
+        "decorated",
+        "have decorated",
+        "will decorate",
+        "had decorated"
+      ],
+      "answer": "will decorate"
+    },
+    {
+      "number": 28,
+      "question": "It was I who _______ chosen to lead the debate.",
+      "options": [
+        "were",
+        "has been",
+        "have been",
+        "was",
+        "are"
+      ],
+      "answer": "was"
+    },
+    {
+      "number": 29,
+      "question": "The girl _______ won the spelling competition is my cousin.",
+      "options": [
+        "whom",
+        "whose",
+        "which",
+        "who’s",
+        "who"
+      ],
+      "answer": "who"
+    },
+    {
+      "number": 30,
+      "question": "My bag is _______ than yours.",
+      "options": [
+        "heavy",
+        "heaviest",
+        "more heavy",
+        "heavier",
+        "most heavy"
+      ],
+      "answer": "heavier"
+    },
+    {
+      "number": 31,
+      "question": "The man travelled to Abuja _______ train.",
+      "options": [
+        "in",
+        "with",
+        "on",
+        "by",
+        "through"
+      ],
+      "answer": "by"
+    },
+    {
+      "number": 32,
+      "question": "Which of the following prefixes can be added to the word legal to form its opposite?",
+      "options": [
+        "un-",
+        "dis-",
+        "il-",
+        "mis-",
+        "non-"
+      ],
+      "answer": "il-"
+    },
+    {
+      "number": 33,
+      "question": "Direct Speech: “We are tired,” the boys said. Indirect Speech: The boys said that they _______ tired.",
+      "options": [
+        "are",
+        "were",
+        "have been",
+        "will be",
+        "would be"
+      ],
+      "answer": "were"
+    },
+    {
+      "number": 34,
+      "question": "The mechanic repaired a _______ of cars last week.",
+      "options": [
+        "troop",
+        "bunch",
+        "fleet",
+        "set",
+        "collection"
+      ],
+      "answer": "fleet"
+    },
+    {
+      "number": 35,
+      "question": "The teacher praised one of the pupils who _______ well in the test.",
+      "options": [
+        "perform",
+        "was performing",
+        "have performed",
+        "performed",
+        "were performing"
+      ],
+      "answer": "performed"
+    },
+    {
+      "number": 36,
+      "question": "Neither the governor nor his aides _______ aware of the accident.",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "be",
+        "being"
+      ],
+      "answer": "were"
+    },
+    {
+      "number": 37,
+      "question": "Bisi cannot sing very well, _______ she?",
+      "options": [
+        "does",
+        "can",
+        "can't",
+        "isn't",
+        "is"
+      ],
+      "answer": "can"
+    },
+    {
+      "number": 38,
+      "question": "The fire caused _______ damage to the building.",
+      "options": [
+        "colateral",
+        "collectoral",
+        "collateral",
+        "colatteral",
+        "colateral"
+      ],
+      "answer": "collateral"
+    },
+    {
+      "number": 39,
+      "question": "The child’s behaviour is not _______ with good manners.",
+      "options": [
+        "consistant",
+        "consistent",
+        "consistence",
+        "consistanty",
+        "consistance"
+      ],
+      "answer": "consistent"
+    }
+  ]
+},
+
+{
+  "instruction": "In the following passage, the numbered gaps indicate missing words. Against each number (40–49), four options are provided. Choose the most suitable word to fill each gap.",
+  "questions": [
+    {
+      "number": 40,
+      "question": "_________",
+      "options": ["effective", "protective", "defensive", "preventive"],
+      "answer": "preventive"
+    },
+    {
+      "number": 41,
+      "question": "_________",
+      "options": ["curative", "healing", "corrective", "anesthetic"],
+      "answer": "curative"
+    },
+    {
+      "number": 42,
+      "question": "_________",
+      "options": ["acquires", "contracts", "contacts", "develops"],
+      "answer": "contracts"
+    },
+    {
+      "number": 43,
+      "question": "_________",
+      "options": ["consultation", "interaction", "discussion", "instruction"],
+      "answer": "consultation"
+    },
+    {
+      "number": 44,
+      "question": "_________",
+      "options": ["explain", "discover", "diagnose", "detect"],
+      "answer": "diagnose"
+    },
+    {
+      "number": 45,
+      "question": "_________",
+      "options": ["signs", "indications", "symptoms", "dues"],
+      "answer": "symptoms"
+    },
+    {
+      "number": 46,
+      "question": "_________",
+      "options": ["pharmacy", "infirmary", "ward", "laboratory"],
+      "answer": "laboratory"
+    },
+    {
+      "number": 47,
+      "question": "_________",
+      "options": ["an image", "an X-ray", "a film", "a photograph"],
+      "answer": "an X-ray"
+    },
+    {
+      "number": 48,
+      "question": "_________",
+      "options": ["prescribe", "write", "select", "dictate"],
+      "answer": "prescribe"
+    },
+    {
+      "number": 49,
+      "question": "_________",
+      "options": ["concoctions", "syringes", "additives", "injections"],
+      "answer": "injections"
+    }
+  ]
+},
+
+{
+  "instruction": "Choose from the options lettered A–E the one that contains the given phonetic symbol.",
+  "questions": [
+    {
+      "number": 50,
+      "question": "/I:/",
+      "options": ["Church", "sheep", "shine", "rush", "push"],
+      "answer": "sheep"
+    },
+    {
+      "number": 51,
+      "question": "/u:/",
+      "options": ["think", "pool", "they", "though", "those"],
+      "answer": "pool"
+    },
+    {
+      "number": 52,
+      "question": "/aɪ/",
+      "options": ["late", "fight", "fed", "heart", "caught"],
+      "answer": "fight"
+    },
+    {
+      "number": 53,
+      "question": "/u/",
+      "options": ["chair", "bear", "dear", "full", "fear"],
+      "answer": "full"
+    },
+    {
+      "number": 54,
+      "question": "/I/",
+      "options": ["word", "sword", "sit", "ward", "wood"],
+      "answer": "sit"
+    },
+    {
+      "number": 55,
+      "question": "/ŋ/",
+      "options": ["wing", "win", "wink", "wine", "wire"],
+      "answer": "wing"
+    },
+    {
+      "number": 56,
+      "question": "/dʒ/",
+      "options": ["judge", "joy", "giant", "bridge", "all of the above"],
+      "answer": "judge"
+    },
+    {
+      "number": 57,
+      "question": "/u:/",
+      "options": ["good", "boot", "could", "pull", "put"],
+      "answer": "good"
+    },
+    {
+      "number": 58,
+      "question": "/t/",
+      "options": ["men", "main", "man", "meant", "mend"],
+      "answer": "meant"
+    },
+    {
+      "number": 59,
+      "question": "/ʧ/",
+      "options": ["chat", "chain", "chair", "check", "all of the above"],
+      "answer": "all of the above"
+    },
+    {
+      "number": 60,
+      "question": "/p/",
+      "options": ["Put", "Loot", "Shoe", "Goat"],
+      "answer": "Put"
+    }
+  ]
+}
+
+]
+
+
+
