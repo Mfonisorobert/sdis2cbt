@@ -1,623 +1,554 @@
 [
-  {
-      "instruction": "Answer the question by choosing the correct option.",
-      "questions": [
-  
     {
       "number": 1,
-      "question": "Which of the following statements is not true according to the passage?",
+      "question": "What is mixed double in racket games?",
       "options": [
-        "Ada was nervous on her first day.",
-        "Her roommates were harsh and unfriendly.",
-        "She admired older students in uniform.",
-        "Ada learned to manage her time.",
-        "Boarding life was not as easy as she imagined."
+         "1 male vs 1 female vs 1 males and 1 females",
+         "1 male vs 1 female",
+         "2 males vs 2 females",
+         "2 females vs 2 females"
       ],
-      "answer": "She admired older students in uniform."
+      "answer": "1 male vs 1 female vs 1 males and 1 females"
     },
     {
       "number": 2,
-      "question": "According to the passage, Ada began to appreciate school life because it",
+      "question": "The objectives of physical education includes the following except",
       "options": [
-        "allowed her to sleep more often",
-        "gave her freedom and discipline",
-        "reminded her of home every day",
-        "required less effort than expected",
-        "was full of food and laughter"
+         "philosophical",
+         "mental",
+         "emotional",
+         "motor skills"
       ],
-      "answer": "gave her freedom and discipline"
+      "answer": "philosophical"
     },
     {
       "number": 3,
-      "question": "The phrase “earn her extra chores” means",
+      "question": "Which of the following is not a recommended sport wear?",
       "options": [
-        "she was rewarded with food",
-        "she was praised for good work",
-        "she was punished with more duties",
-        "she was excused from tasks",
-        "she was allowed to rest"
+         "Canvas and sports",
+         "Vests",
+         "Track suits",
+         "Gown"
       ],
-      "answer": "she was punished with more duties"
+      "answer": "Gown"
     },
     {
       "number": 4,
-      "question": "The word “independence” as used in the passage can best be replaced with",
+      "question": "The ability to do you daily activities without fatigue and still have reserved energy is _____.",
       "options": [
-        "laziness",
-        "freedom",
-        "stubbornness",
-        "teamwork",
-        "loneliness"
+         "physical education",
+         "physical strength",
+         "physical endurance",
+         "physical fitness"
       ],
-      "answer": "freedom"
+      "answer": "physical fitness"
     },
     {
       "number": 5,
-      "question": "The writer’s main purpose is to",
+      "question": "Which of the following equipment are used to play badminton game?",
       "options": [
-        "criticize boarding schools",
-        "narrate Ada’s experiences and lessons",
-        "describe senior students’ behavior",
-        "explain the importance of chores",
-        "warn students against leaving home"
+         "Bat and ball",
+         "Bat and shuttle",
+         "Racket and ball",
+         "Racket and shuttle"
       ],
-      "answer": "narrate Ada’s experiences and lessons"
+      "answer": "Racket and shuttle"
     },
     {
       "number": 6,
-      "question": "I will not go to the market until my mother __.",
+      "question": "The end product of fats digestion is",
       "options": [
-        "arrives",
-        "arrived",
-        "has arrive",
-        "arriving",
-        "arrive"
+         "glucose",
+         "amino acid",
+         "glycogen",
+         "fatty acid"
       ],
-      "answer": "arrives"
+      "answer": "fatty acid"
     },
     {
       "number": 7,
-      "question": "The woman __ purse was stolen reported the case to the police.",
+      "question": "The following are causes of human trafficking except",
       "options": [
-        "that",
-        "who",
-        "whom",
-        "whose",
-        "which"
+         "broken homes",
+         "ignorance",
+         "poverty",
+         "ill-health"
       ],
-      "answer": "whose"
+      "answer": "ill-health"
     },
     {
       "number": 8,
-      "question": "We were all surprised that he could sing __ well.",
+      "question": "Which of the following factors does not affect women participation in sports?",
       "options": [
-        "so",
-        "too",
-        "quite",
-        "very",
-        "most"
+         "Culture",
+         "Economy",
+         "Politics",
+         "Physique"
       ],
-      "answer": "so"
+      "answer": "Physique"
     },
     {
       "number": 9,
-      "question": "If I __ you, I would apologize immediately.",
+      "question": "The branches of physical education include the following except",
       "options": [
-        "is",
-        "was",
-        "am",
-        "were",
-        "be"
+         "aquatics",
+         "health",
+         "games",
+         "cosmetology"
       ],
-      "answer": "were"
+      "answer": "cosmetology"
     },
     {
       "number": 10,
-      "question": "The manager promised to look __ the matter.",
+      "question": "Service change at the count of _____ point.",
       "options": [
-        "on",
-        "into",
-        "at",
-        "for",
-        "after"
+         "6",
+         "3",
+         "4",
+         "2"
       ],
-      "answer": "into"
+      "answer": "2"
     },
     {
       "number": 11,
-      "question": "The doctor advised me to take my medicine according to the ____ on the bottle.",
+      "question": "Which of the following is not a skill in table tennis game?",
       "options": [
-        "direction",
-        "instruction",
-        "prescription",
-        "description",
-        "decoration"
+         "Forehand stroke",
+         "Smashing",
+         "Backhand stroke",
+         "Back hank stroke"
       ],
-      "answer": "prescription"
+      "answer": "Back hank stroke"
     },
     {
       "number": 12,
-      "question": "The farmer stored his grains in a large ____.",
+      "question": "Table tennis officials include all these people except",
       "options": [
-        "library",
-        "barn",
-        "garage",
-        "factory",
-        "basket"
+         "referee",
+         "umpire",
+         "assistant",
+         "linesmen"
       ],
-      "answer": "basket"
+      "answer": "assistant"
     },
     {
       "number": 13,
-      "question": "The soldiers were praised for their ____ during the rescue mission.",
+      "question": "The skill used to start a game of tennis is ____",
       "options": [
-        "laziness",
-        "bravery",
-        "hesitation",
-        "delay",
-        "pride"
+         "driving",
+         "bounce",
+         "rally",
+         "service"
       ],
-      "answer": "bravery"
+      "answer": "service"
     },
     {
       "number": 14,
-      "question": "The teacher told the students to keep their books in good ____.",
+      "question": "Which of the following equipment is not for table tennis game?",
       "options": [
-        "shape",
-        "look",
-        "size",
-        "fashion",
-        "position"
+         "The net",
+         "Tennis board",
+         "Table tennis bat",
+         "groin protector"
       ],
-      "answer": "shape"
+      "answer": "groin protector"
     },
     {
       "number": 15,
-      "question": "The new principal promised to ____ discipline in the school.",
+      "question": "If the shuttle hits the net on a serve and goes over, landing in the appropriate service court, it is called ______.",
       "options": [
-        "introduce",
-        "install",
-        "insist",
-        "maintain",
-        "instruct"
+         "miss",
+         "point",
+         "fault",
+         "let"
       ],
-      "answer": "install"
+      "answer": "let"
     },
     {
       "number": 16,
-      "question": "The patient was ____ with typhoid fever.",
+      "question": "In double play, no receiver may receive two consecutive service.",
       "options": [
-        "described",
-        "designed",
-        "diagnosed",
-        "discovered",
-        "directed"
+         "true",
+         "false",
+         "at times",
+         "most times."
       ],
-      "answer": "diagnosed"
+      "answer": "true"
     },
     {
       "number": 17,
-      "question": "The ____ prepared a delicious meal for the guests.",
+      "question": "The badminton game begins with an",
       "options": [
-        "waiter",
-        "chef",
-        "cleaner",
-        "hostess",
-        "butcher"
+         "overhead service",
+         "back hand service",
+         "underhand service",
+         "side hand service"
       ],
-      "answer": "chef"
+      "answer": "overhead service"
     },
     {
       "number": 18,
-      "question": "The ____ presented strong evidence in court.",
+      "question": "How many feathers does the shuttle cock have?",
       "options": [
-        "judge",
-        "defendant",
-        "lawyer",
-        "clerk",
-        "witness"
+         "16",
+         "25",
+         "20",
+         "18"
       ],
-      "answer": "lawyer"
+      "answer": "16"
     },
     {
       "number": 19,
-      "question": "The baby cried because her toy was ____.",
+      "question": "In a badminton game, the winner is likely the first to reach points",
       "options": [
-        "lost",
-        "found",
-        "clean",
-        "present",
-        "shining"
+         "21",
+         "11",
+         "16",
+         "17"
       ],
-      "answer": "lost"
+      "answer": "21"
     },
     {
       "number": 20,
-      "question": "Our school library is known for its wide ____ of books.",
+      "question": "When a badminton player wins a rally, how many points can he or she get?",
       "options": [
-        "selection",
-        "portion",
-        "picture",
-        "reflection",
-        "expansion"
+         "1point",
+         "2points",
+         "3 points",
+         "4 points"
       ],
-      "answer": "selection"
-    }
-  ]
-  },
-{
-  "instruction": "Complete each of the following sentences with the most appropriate option.",
-  "questions": [
+      "answer": "1point"
+    },
     {
       "number": 21,
-      "question": "The boys bought _______ storybooks at the fair.",
+      "question": "Which term is used when a player violates the rules?",
       "options": [
-        "three interesting small",
-        "small interesting three",
-        "interesting three small",
-        "three small interesting",
-        "small three interesting"
+         "A fault",
+         "A mistake",
+         "An error",
+         "None of the above"
       ],
-      "answer": "three small interesting"
+      "answer": "A fault"
     },
     {
       "number": 22,
-      "question": "Active voice: The students are painting the classroom. Passive voice: The classroom _______ by the students.",
+      "question": "When does the umpire call the score loud during a badminton game?",
       "options": [
-        "is being painted",
-        "was painted",
-        "will be painted",
-        "has been painted",
-        "were painted"
+         "After the rally finishes",
+         "Before the game starts",
+         "After the game finishes",
+         "None of the above"
       ],
-      "answer": "is being painted"
+      "answer": "After the rally finishes"
     },
     {
       "number": 23,
-      "question": "Direct Speech: “I am studying for my test,” said Peter. Indirect Speech: Peter said that he _______ for his test.",
+      "question": "Which body part generates more force when hitting a shuttle cock?",
       "options": [
-        "studied",
-        "is studying",
-        "was studying",
-        "has studied",
-        "studies"
+         "Wrist",
+         "Forearm",
+         "Hand",
+         "Shoulder"
       ],
-      "answer": "was studying"
+      "answer": "Shoulder"
     },
     {
       "number": 24,
-      "question": "The train had left _______ we arrived at the station.",
+      "question": "The dimension of a hockey field are",
       "options": [
-        "before",
-        "after",
-        "until",
-        "when",
-        "since"
+         "92m x 55m",
+         "91.4m x 56m",
+         "92.5m x 56m",
+         "91.4m x 55m"
       ],
-      "answer": "before"
+      "answer": "91.4m x 55m"
     },
     {
       "number": 25,
-      "question": "Each of the girls _______ given a new uniform.",
+      "question": "Each half in a hockey game consist of",
       "options": [
-        "were",
-        "are",
-        "is",
-        "have",
-        "be"
+         "30 minutes",
+         "45 minutes",
+         "40 minutes",
+         "35 minutes"
       ],
-      "answer": "were"
+      "answer": "35 minutes"
     },
     {
       "number": 26,
-      "question": "Tunde plays football every evening, _______ he?",
+      "question": "Highest governing body of hockey is",
       "options": [
-        "do",
-        "doesn't",
-        "does",
-        "did",
-        "didn't"
+         "World Hockey Federation",
+         "International Hockey Federation",
+         "Internationally Hockey Federation",
+         "Federation of International Hockey"
       ],
-      "answer": "doesn't"
+      "answer": "International Hockey Federation"
     },
     {
       "number": 27,
-      "question": "Passive voice: The hall will be decorated by the prefects. Active voice: The prefects _______ the hall.",
+      "question": "Total number of players playing on the pitch in a hockey match is",
       "options": [
-        "are decorating",
-        "decorated",
-        "have decorated",
-        "will decorate",
-        "had decorated"
+         "16",
+         "20",
+         "18",
+         "22"
       ],
-      "answer": "will decorate"
+      "answer": "22"
     },
     {
       "number": 28,
-      "question": "It was I who _______ chosen to lead the debate.",
+      "question": "Which player is allowed to touch the ball with his feet during a hockey match?",
       "options": [
-        "were",
-        "has been",
-        "have been",
-        "was",
-        "are"
+         "Centre forward",
+         "Winger",
+         "Defender",
+         "Goalkeeper"
       ],
-      "answer": "was"
+      "answer": "Goalkeeper"
     },
     {
       "number": 29,
-      "question": "The girl _______ won the spelling competition is my cousin.",
+      "question": "Is shot put a track or field event?",
       "options": [
-        "whom",
-        "whose",
-        "which",
-        "who’s",
-        "who"
+         "Track",
+         "Field",
+         "Board game",
+         "Stick game"
       ],
-      "answer": "who"
+      "answer": "Field"
     },
     {
       "number": 30,
-      "question": "My bag is _______ than yours.",
+      "question": "Which event is not classified as a field event?",
       "options": [
-        "heavy",
-        "heaviest",
-        "more heavy",
-        "heavier",
-        "most heavy"
+         "Short put",
+         "High jump",
+         "Javelin",
+         "Hurder s"
       ],
-      "answer": "heavier"
+      "answer": "Hurder s"
     },
     {
       "number": 31,
-      "question": "The man travelled to Abuja _______ train.",
+      "question": "In the game of table tennis, when the ball crosses the net, it is allowed to ______.",
       "options": [
-        "in",
-        "with",
-        "on",
-        "by",
-        "through"
+         "bounce twice",
+         "be volleyed",
+         "not to bounce at all",
+         "not to bounce once"
       ],
-      "answer": "by"
+      "answer": "bounce twice"
     },
     {
       "number": 32,
-      "question": "Which of the following prefixes can be added to the word legal to form its opposite?",
+      "question": "The man who originated the game of table tennis was _______.",
       "options": [
-        "un-",
-        "dis-",
-        "il-",
-        "mis-",
-        "non-"
+         "Moreton Marsh",
+         "Baxter Charles",
+         "Jay Bays",
+         "Morgan William"
       ],
-      "answer": "il-"
+      "answer": "Moreton Marsh"
     },
     {
       "number": 33,
-      "question": "Direct Speech: “We are tired,” the boys said. Indirect Speech: The boys said that they _______ tired.",
+      "question": "_____ is the noise made by the ball when hit back and forth by the racket or bat.",
       "options": [
-        "are",
-        "were",
-        "have been",
-        "will be",
-        "would be"
+         "ping – ping",
+         "ping – pong",
+         "pong – ping",
+         "pong – pong"
       ],
-      "answer": "were"
+      "answer": "ping – pong"
     },
     {
       "number": 34,
-      "question": "The mechanic repaired a _______ of cars last week.",
+      "question": "The International Table Tennis Federation was formed with its headquarters in ______.",
       "options": [
-        "troop",
-        "bunch",
-        "fleet",
-        "set",
-        "collection"
+         "France",
+         "Berlin",
+         "Brussel",
+         "Germany"
       ],
-      "answer": "fleet"
+      "answer": "Brussel"
     },
     {
       "number": 35,
-      "question": "The teacher praised one of the pupils who _______ well in the test.",
+      "question": "Which of the following is not an official in the game of table tennis?",
       "options": [
-        "perform",
-        "was performing",
-        "have performed",
-        "performed",
-        "were performing"
+         "Referee",
+         "Ball boys",
+         "Umpire",
+         "Line judges"
       ],
-      "answer": "performed"
+      "answer": "Ball boys"
     },
     {
       "number": 36,
-      "question": "Neither the governor nor his aides _______ aware of the accident.",
+      "question": "_____ is declared when a player and his opponent tie in a game of table tennis.",
       "options": [
-        "are",
-        "is",
-        "were",
-        "be",
-        "being"
+         "A let",
+         "Deuce",
+         "Game point",
+         "Rally"
       ],
-      "answer": "were"
+      "answer": "Deuce"
     },
     {
       "number": 37,
-      "question": "Bisi cannot sing very well, _______ she?",
+      "question": "A career is a job or profession in which a person I _______ for life.",
       "options": [
-        "does",
-        "can",
-        "can't",
-        "isn't",
-        "is"
+         "trained",
+         "trained and employed",
+         "retired",
+         "educated"
       ],
-      "answer": "can"
+      "answer": "trained and employed"
     },
     {
       "number": 38,
-      "question": "The fire caused _______ damage to the building.",
+      "question": "The workers that take care of sports injuries are found in _______.",
       "options": [
-        "colateral",
-        "collectoral",
-        "collateral",
-        "colatteral",
-        "colateral"
+         "sport psychology",
+         "sport medicine",
+         "safety education",
+         "health administration"
       ],
-      "answer": "collateral"
+      "answer": "sport medicine"
     },
     {
       "number": 39,
-      "question": "The child’s behaviour is not _______ with good manners.",
+      "question": "Which of the following statements best explain the meaning of rally in the game of table tennis?",
       "options": [
-        "consistant",
-        "consistent",
-        "consistence",
-        "consistanty",
-        "consistance"
+         "A replay of game",
+         "The end of play action",
+         "Playing the ball to and fro the table",
+         "A ball not in play"
       ],
-      "answer": "consistent"
-    }
-  ]
-},
-
-{
-  "instruction": "In the following passage, the numbered gaps indicate missing words. Against each number (40–49), four options are provided. Choose the most suitable word to fill each gap.",
-  "questions": [
+      "answer": "Playing the ball to and fro the table"
+    },
     {
       "number": 40,
-      "question": "_________",
-      "options": ["effective", "protective", "defensive", "preventive"],
-      "answer": "preventive"
+      "question": "A wrong play action against the rule in table tennis is known as _____.",
+      "options": [
+         "game over",
+         "game out",
+         "fault",
+         "start all over"
+      ],
+      "answer": "fault"
     },
     {
       "number": 41,
-      "question": "_________",
-      "options": ["curative", "healing", "corrective", "anesthetic"],
-      "answer": "curative"
+      "question": "_______ event are activities which involves jumping and throwing.",
+      "options": [
+         "Pole vault",
+         "Javelin",
+         "Field",
+         "Track"
+      ],
+      "answer": "Field"
     },
     {
       "number": 42,
-      "question": "_________",
-      "options": ["acquires", "contracts", "contacts", "develops"],
-      "answer": "contracts"
+      "question": "All track events are performed in ______.",
+      "options": [
+         "field",
+         "school",
+         "lanes",
+         "area"
+      ],
+      "answer": "lanes"
     },
     {
       "number": 43,
-      "question": "_________",
-      "options": ["consultation", "interaction", "discussion", "instruction"],
-      "answer": "consultation"
+      "question": "Running is an example of _____ event.",
+      "options": [
+         "field",
+         "sport",
+         "track",
+         "all of the above"
+      ],
+      "answer": "track"
     },
     {
       "number": 44,
-      "question": "_________",
-      "options": ["explain", "discover", "diagnose", "detect"],
-      "answer": "diagnose"
+      "question": "______ are events which are intended to cover heights.",
+      "options": [
+         "Jumps",
+         "Throw",
+         "Race",
+         "None of the above"
+      ],
+      "answer": "Jumps"
     },
     {
       "number": 45,
-      "question": "_________",
-      "options": ["signs", "indications", "symptoms", "dues"],
-      "answer": "symptoms"
+      "question": "Throws are event which involves projecting object into space.",
+      "options": [
+         "True",
+         "False",
+         "At times",
+         "Most times."
+      ],
+      "answer": "True"
     },
     {
       "number": 46,
-      "question": "_________",
-      "options": ["pharmacy", "infirmary", "ward", "laboratory"],
-      "answer": "laboratory"
+      "question": "Discuss is a track event.",
+      "options": [
+         "True",
+         "False",
+         "At times",
+         "Most times."
+      ],
+      "answer": "False"
     },
     {
       "number": 47,
-      "question": "_________",
-      "options": ["an image", "an X-ray", "a film", "a photograph"],
-      "answer": "an X-ray"
+      "question": "The purpose of physical and health education provides the individuals the opportunity to develop in all but ______.",
+      "options": [
+         "spiritual growth",
+         "physical",
+         "emotional",
+         "mental"
+      ],
+      "answer": "spiritual growth"
     },
     {
       "number": 48,
-      "question": "_________",
-      "options": ["prescribe", "write", "select", "dictate"],
-      "answer": "prescribe"
+      "question": "______ are activities such as sports and exercise which people need physical power to compete in.",
+      "options": [
+         "Athletics",
+         "Sport",
+         "Games",
+         "Events"
+      ],
+      "answer": "Athletics"
     },
     {
       "number": 49,
-      "question": "_________",
-      "options": ["concoctions", "syringes", "additives", "injections"],
-      "answer": "injections"
-    }
-  ]
-},
-
-{
-  "instruction": "Choose from the options lettered A–E the one that contains the given phonetic symbol.",
-  "questions": [
+      "question": "A relay team consists of _____ athletes.",
+      "options": [
+         "4",
+         "6",
+         "8",
+         "10"
+      ],
+      "answer": "4"
+    },
     {
       "number": 50,
-      "question": "/I:/",
-      "options": ["Church", "sheep", "shine", "rush", "push"],
-      "answer": "sheep"
-    },
-    {
-      "number": 51,
-      "question": "/u:/",
-      "options": ["think", "pool", "they", "though", "those"],
-      "answer": "pool"
-    },
-    {
-      "number": 52,
-      "question": "/aɪ/",
-      "options": ["late", "fight", "fed", "heart", "caught"],
-      "answer": "fight"
-    },
-    {
-      "number": 53,
-      "question": "/u/",
-      "options": ["chair", "bear", "dear", "full", "fear"],
-      "answer": "full"
-    },
-    {
-      "number": 54,
-      "question": "/I/",
-      "options": ["word", "sword", "sit", "ward", "wood"],
-      "answer": "sit"
-    },
-    {
-      "number": 55,
-      "question": "/ŋ/",
-      "options": ["wing", "win", "wink", "wine", "wire"],
-      "answer": "wing"
-    },
-    {
-      "number": 56,
-      "question": "/dʒ/",
-      "options": ["judge", "joy", "giant", "bridge", "all of the above"],
-      "answer": "judge"
-    },
-    {
-      "number": 57,
-      "question": "/u:/",
-      "options": ["good", "boot", "could", "pull", "put"],
-      "answer": "good"
-    },
-    {
-      "number": 58,
-      "question": "/t/",
-      "options": ["men", "main", "man", "meant", "mend"],
-      "answer": "meant"
-    },
-    {
-      "number": 59,
-      "question": "/ʧ/",
-      "options": ["chat", "chain", "chair", "check", "all of the above"],
-      "answer": "all of the above"
-    },
-    {
-      "number": 60,
-      "question": "/p/",
-      "options": ["Put", "Loot", "Shoe", "Goat"],
-      "answer": "Put"
+      "question": "Recreational activities are performed during",
+      "options": [
+         "leisure hours",
+         "bed time",
+         "break period",
+         "weekend"
+      ],
+      "answer": "leisure hours"
     }
   ]
-}
-
-]
-
 
 
