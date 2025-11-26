@@ -1,554 +1,302 @@
 [
-    {
-      "number": 1,
-      "question": "What is mixed double in racket games?",
-      "options": [
-         "1 male vs 1 female vs 1 males and 1 females",
-         "1 male vs 1 female",
-         "2 males vs 2 females",
-         "2 females vs 2 females"
-      ],
-      "answer": "1 male vs 1 female vs 1 males and 1 females"
-    },
-    {
-      "number": 2,
-      "question": "The objectives of physical education includes the following except",
-      "options": [
-         "philosophical",
-         "mental",
-         "emotional",
-         "motor skills"
-      ],
-      "answer": "philosophical"
-    },
-    {
-      "number": 3,
-      "question": "Which of the following is not a recommended sport wear?",
-      "options": [
-         "Canvas and sports",
-         "Vests",
-         "Track suits",
-         "Gown"
-      ],
-      "answer": "Gown"
-    },
-    {
-      "number": 4,
-      "question": "The ability to do you daily activities without fatigue and still have reserved energy is _____.",
-      "options": [
-         "physical education",
-         "physical strength",
-         "physical endurance",
-         "physical fitness"
-      ],
-      "answer": "physical fitness"
-    },
-    {
-      "number": 5,
-      "question": "Which of the following equipment are used to play badminton game?",
-      "options": [
-         "Bat and ball",
-         "Bat and shuttle",
-         "Racket and ball",
-         "Racket and shuttle"
-      ],
-      "answer": "Racket and shuttle"
-    },
-    {
-      "number": 6,
-      "question": "The end product of fats digestion is",
-      "options": [
-         "glucose",
-         "amino acid",
-         "glycogen",
-         "fatty acid"
-      ],
-      "answer": "fatty acid"
-    },
-    {
-      "number": 7,
-      "question": "The following are causes of human trafficking except",
-      "options": [
-         "broken homes",
-         "ignorance",
-         "poverty",
-         "ill-health"
-      ],
-      "answer": "ill-health"
-    },
-    {
-      "number": 8,
-      "question": "Which of the following factors does not affect women participation in sports?",
-      "options": [
-         "Culture",
-         "Economy",
-         "Politics",
-         "Physique"
-      ],
-      "answer": "Physique"
-    },
-    {
-      "number": 9,
-      "question": "The branches of physical education include the following except",
-      "options": [
-         "aquatics",
-         "health",
-         "games",
-         "cosmetology"
-      ],
-      "answer": "cosmetology"
-    },
-    {
-      "number": 10,
-      "question": "Service change at the count of _____ point.",
-      "options": [
-         "6",
-         "3",
-         "4",
-         "2"
-      ],
-      "answer": "2"
-    },
-    {
-      "number": 11,
-      "question": "Which of the following is not a skill in table tennis game?",
-      "options": [
-         "Forehand stroke",
-         "Smashing",
-         "Backhand stroke",
-         "Back hank stroke"
-      ],
-      "answer": "Back hank stroke"
-    },
-    {
-      "number": 12,
-      "question": "Table tennis officials include all these people except",
-      "options": [
-         "referee",
-         "umpire",
-         "assistant",
-         "linesmen"
-      ],
-      "answer": "assistant"
-    },
-    {
-      "number": 13,
-      "question": "The skill used to start a game of tennis is ____",
-      "options": [
-         "driving",
-         "bounce",
-         "rally",
-         "service"
-      ],
-      "answer": "service"
-    },
-    {
-      "number": 14,
-      "question": "Which of the following equipment is not for table tennis game?",
-      "options": [
-         "The net",
-         "Tennis board",
-         "Table tennis bat",
-         "groin protector"
-      ],
-      "answer": "groin protector"
-    },
-    {
-      "number": 15,
-      "question": "If the shuttle hits the net on a serve and goes over, landing in the appropriate service court, it is called ______.",
-      "options": [
-         "miss",
-         "point",
-         "fault",
-         "let"
-      ],
-      "answer": "let"
-    },
-    {
-      "number": 16,
-      "question": "In double play, no receiver may receive two consecutive service.",
-      "options": [
-         "true",
-         "false",
-         "at times",
-         "most times."
-      ],
-      "answer": "true"
-    },
-    {
-      "number": 17,
-      "question": "The badminton game begins with an",
-      "options": [
-         "overhead service",
-         "back hand service",
-         "underhand service",
-         "side hand service"
-      ],
-      "answer": "overhead service"
-    },
-    {
-      "number": 18,
-      "question": "How many feathers does the shuttle cock have?",
-      "options": [
-         "16",
-         "25",
-         "20",
-         "18"
-      ],
-      "answer": "16"
-    },
-    {
-      "number": 19,
-      "question": "In a badminton game, the winner is likely the first to reach points",
-      "options": [
-         "21",
-         "11",
-         "16",
-         "17"
-      ],
-      "answer": "21"
-    },
-    {
-      "number": 20,
-      "question": "When a badminton player wins a rally, how many points can he or she get?",
-      "options": [
-         "1point",
-         "2points",
-         "3 points",
-         "4 points"
-      ],
-      "answer": "1point"
-    },
-    {
-      "number": 21,
-      "question": "Which term is used when a player violates the rules?",
-      "options": [
-         "A fault",
-         "A mistake",
-         "An error",
-         "None of the above"
-      ],
-      "answer": "A fault"
-    },
-    {
-      "number": 22,
-      "question": "When does the umpire call the score loud during a badminton game?",
-      "options": [
-         "After the rally finishes",
-         "Before the game starts",
-         "After the game finishes",
-         "None of the above"
-      ],
-      "answer": "After the rally finishes"
-    },
-    {
-      "number": 23,
-      "question": "Which body part generates more force when hitting a shuttle cock?",
-      "options": [
-         "Wrist",
-         "Forearm",
-         "Hand",
-         "Shoulder"
-      ],
-      "answer": "Shoulder"
-    },
-    {
-      "number": 24,
-      "question": "The dimension of a hockey field are",
-      "options": [
-         "92m x 55m",
-         "91.4m x 56m",
-         "92.5m x 56m",
-         "91.4m x 55m"
-      ],
-      "answer": "91.4m x 55m"
-    },
-    {
-      "number": 25,
-      "question": "Each half in a hockey game consist of",
-      "options": [
-         "30 minutes",
-         "45 minutes",
-         "40 minutes",
-         "35 minutes"
-      ],
-      "answer": "35 minutes"
-    },
-    {
-      "number": 26,
-      "question": "Highest governing body of hockey is",
-      "options": [
-         "World Hockey Federation",
-         "International Hockey Federation",
-         "Internationally Hockey Federation",
-         "Federation of International Hockey"
-      ],
-      "answer": "International Hockey Federation"
-    },
-    {
-      "number": 27,
-      "question": "Total number of players playing on the pitch in a hockey match is",
-      "options": [
-         "16",
-         "20",
-         "18",
-         "22"
-      ],
-      "answer": "22"
-    },
-    {
-      "number": 28,
-      "question": "Which player is allowed to touch the ball with his feet during a hockey match?",
-      "options": [
-         "Centre forward",
-         "Winger",
-         "Defender",
-         "Goalkeeper"
-      ],
-      "answer": "Goalkeeper"
-    },
-    {
-      "number": 29,
-      "question": "Is shot put a track or field event?",
-      "options": [
-         "Track",
-         "Field",
-         "Board game",
-         "Stick game"
-      ],
-      "answer": "Field"
-    },
-    {
-      "number": 30,
-      "question": "Which event is not classified as a field event?",
-      "options": [
-         "Short put",
-         "High jump",
-         "Javelin",
-         "Hurdles"
-      ],
-      "answer": "Hurdles"
-    },
-    {
-      "number": 31,
-      "question": "In the game of table tennis, when the ball crosses the net, it is allowed to ______.",
-      "options": [
-         "bounce twice",
-         "be volleyed",
-         "not to bounce at all",
-         "not to bounce once"
-      ],
-      "answer": "bounce twice"
-    },
-    {
-      "number": 32,
-      "question": "The man who originated the game of table tennis was _______.",
-      "options": [
-         "Moreton Marsh",
-         "Baxter Charles",
-         "Jay Bays",
-         "Morgan William"
-      ],
-      "answer": "Moreton Marsh"
-    },
-    {
-      "number": 33,
-      "question": "_____ is the noise made by the ball when hit back and forth by the racket or bat.",
-      "options": [
-         "ping – ping",
-         "ping – pong",
-         "pong – ping",
-         "pong – pong"
-      ],
-      "answer": "ping – pong"
-    },
-    {
-      "number": 34,
-      "question": "The International Table Tennis Federation was formed with its headquarters in ______.",
-      "options": [
-         "France",
-         "Berlin",
-         "Brussel",
-         "Germany"
-      ],
-      "answer": "Brussel"
-    },
-    {
-      "number": 35,
-      "question": "Which of the following is not an official in the game of table tennis?",
-      "options": [
-         "Referee",
-         "Ball boys",
-         "Umpire",
-         "Line judges"
-      ],
-      "answer": "Ball boys"
-    },
-    {
-      "number": 36,
-      "question": "_____ is declared when a player and his opponent tie in a game of table tennis.",
-      "options": [
-         "A let",
-         "Deuce",
-         "Game point",
-         "Rally"
-      ],
-      "answer": "Deuce"
-    },
-    {
-      "number": 37,
-      "question": "A career is a job or profession in which a person I _______ for life.",
-      "options": [
-         "trained",
-         "trained and employed",
-         "retired",
-         "educated"
-      ],
-      "answer": "trained and employed"
-    },
-    {
-      "number": 38,
-      "question": "The workers that take care of sports injuries are found in _______.",
-      "options": [
-         "sport psychology",
-         "sport medicine",
-         "safety education",
-         "health administration"
-      ],
-      "answer": "sport medicine"
-    },
-    {
-      "number": 39,
-      "question": "Which of the following statements best explain the meaning of rally in the game of table tennis?",
-      "options": [
-         "A replay of game",
-         "The end of play action",
-         "Playing the ball to and fro the table",
-         "A ball not in play"
-      ],
-      "answer": "Playing the ball to and fro the table"
-    },
-    {
-      "number": 40,
-      "question": "A wrong play action against the rule in table tennis is known as _____.",
-      "options": [
-         "game over",
-         "game out",
-         "fault",
-         "start all over"
-      ],
-      "answer": "fault"
-    },
-    {
-      "number": 41,
-      "question": "_______ event are activities which involves jumping and throwing.",
-      "options": [
-         "Pole vault",
-         "Javelin",
-         "Field",
-         "Track"
-      ],
-      "answer": "Field"
-    },
-    {
-      "number": 42,
-      "question": "All track events are performed in ______.",
-      "options": [
-         "field",
-         "school",
-         "lanes",
-         "area"
-      ],
-      "answer": "lanes"
-    },
-    {
-      "number": 43,
-      "question": "Running is an example of _____ event.",
-      "options": [
-         "field",
-         "sport",
-         "track",
-         "all of the above"
-      ],
-      "answer": "track"
-    },
-    {
-      "number": 44,
-      "question": "______ are events which are intended to cover heights.",
-      "options": [
-         "Jumps",
-         "Throw",
-         "Race",
-         "None of the above"
-      ],
-      "answer": "Jumps"
-    },
-    {
-      "number": 45,
-      "question": "Throws are event which involves projecting object into space.",
-      "options": [
-         "True",
-         "False",
-         "At times",
-         "Most times."
-      ],
-      "answer": "True"
-    },
-    {
-      "number": 46,
-      "question": "Discuss is a track event.",
-      "options": [
-         "True",
-         "False",
-         "At times",
-         "Most times."
-      ],
-      "answer": "False"
-    },
-    {
-      "number": 47,
-      "question": "The purpose of physical and health education provides the individuals the opportunity to develop in all but ______.",
-      "options": [
-         "spiritual growth",
-         "physical",
-         "emotional",
-         "mental"
-      ],
-      "answer": "spiritual growth"
-    },
-    {
-      "number": 48,
-      "question": "______ are activities such as sports and exercise which people need physical power to compete in.",
-      "options": [
-         "Athletics",
-         "Sport",
-         "Games",
-         "Events"
-      ],
-      "answer": "Athletics"
-    },
-    {
-      "number": 49,
-      "question": "A relay team consists of _____ athletes.",
-      "options": [
-         "4",
-         "6",
-         "8",
-         "10"
-      ],
-      "answer": "4"
-    },
-    {
-      "number": 50,
-      "question": "Recreational activities are performed during",
-      "options": [
-         "leisure hours",
-         "bed time",
-         "break period",
-         "weekend"
-      ],
-      "answer": "leisure hours"
-    }
-  ]
-
-
+  {
+    "number": 1,
+    "question": "A group of closely related organisms capable of interbreeding to produce fertile offspring are known as members of a",
+    "options": ["kingdom", "class", "family", "specie"],
+    "answer": "specie"
+  },
+  {
+    "number": 2,
+    "question": "The maintenance of a constant internal environment of an organism is known as",
+    "options": ["homeostasis", "homeorhesis", "turgidity", "duiresis"],
+    "answer": "homeostasis"
+  },
+  {
+    "number": 3,
+    "question": "Which of the following is a biotic component of an ecosystem?",
+    "options": ["Soil", "Rainfall", "Light", "Fungi"],
+    "answer": "Fungi"
+  },
+  {
+    "number": 4,
+    "question": "Euglena moves by the",
+    "options": ["whipping action of its flagellum", "beating of its cilia", "rotating action of the flagella", "beating of the pseudopodia"],
+    "answer": "whipping action of its flagellum"
+  },
+  {
+    "number": 5,
+    "question": "Which of the following is not present in the nucleus of a cell?",
+    "options": ["Chromosomes", "Nucleolus", "Mitochondrion", "Genes"],
+    "answer": "Mitochondrion"
+  },
+  {
+    "number": 6,
+    "question": "Which of the following organs is responsible for controlling the body temperature regulation and water balance in mammals?",
+    "options": ["Kidney", "Hypothalamus", "Parathyroid", "Adrenal"],
+    "answer": "Hypothalamus"
+  },
+  {
+    "number": 7,
+    "question": "The pigment in the malpighian layer responsible for skin coloration is known as",
+    "options": ["hemoglobin", "haemocyanin", "Melanin", "haemoerythrin"],
+    "answer": "Melanin"
+  },
+  {
+    "number": 8,
+    "question": "Co-ordination is achieved in the body of mammals through the action of the",
+    "options": ["endocrine and nervous system", "skeletal and nervous system", "muscular and nervous system", "circulatory and nervous system"],
+    "answer": "endocrine and nervous system"
+  },
+  {
+    "number": 9,
+    "question": "Which of the following statements is correct of hormones? Hormones are",
+    "options": ["secreted into the blood through ducts", "secreted directly into the blood system", "inactive chemical substance in the blood stream", "non-specific in their mode of action"],
+    "answer": "secreted directly into the blood system"
+  },
+  {
+    "number": 10,
+    "question": "The pituitary is called master gland because",
+    "options": ["it is located in the brain", "its secretions are more numerous than those of any other gland", "its secretion controls other glands", "it is the only organ that produces hormones"],
+    "answer": "its secretion controls other glands"
+  },
+  {
+    "number": 11,
+    "question": "The brain and the spinal cord make up the",
+    "options": ["peripheral nervous system", "autonomic nervous system", "central nervous system", "somatic nervous system"],
+    "answer": "central nervous system"
+  },
+  {
+    "number": 12,
+    "question": "Which of the following specialized structures are stimulated by touch, pressure, pain, heat and cold?",
+    "options": ["Receptors", "Synapse", "Cell bodies", "Myelin sheath"],
+    "answer": "Receptors"
+  },
+  {
+    "number": 13,
+    "question": "The vector of the malaria parasite is the",
+    "options": ["Male anopheles", "female culex", "Male culex", "female anopheles"],
+    "answer": "female anopheles"
+  },
+  {
+    "number": 14,
+    "question": "Which of the following stimuli are not perceived through the skin of mammals?",
+    "options": ["Light", "Pressure", "Pain", "Heat"],
+    "answer": "Light"
+  },
+  {
+    "number": 15,
+    "question": "Which of the following parts of the tongue does not correspond to the taste indicated against it?",
+    "options": ["Tip-sweet", "centre-salt", "back-sour", "back-bitter"],
+    "answer": "back-sour"
+  },
+  {
+    "number": 16,
+    "question": "Muscles are attached to bones by means of",
+    "options": ["Ligament", "cartilage", "Synovial membrane", "tendons"],
+    "answer": "Ligament"
+  },
+  {
+    "number": 17,
+    "question": "The human skin is regarded as a sense organ because it",
+    "options": ["separates the body from the outside world", "protects the body from cold and heat", "regulate the water content of the body", "has nerve endings"],
+    "answer": "has nerve endings"
+  },
+  {
+    "number": 18,
+    "question": "The part of the brain responsible for the control of voluntary movement and interpretation of sensation is the",
+    "options": ["Cerebrum", "cerebellum", "Optic lobe", "medulla"],
+    "answer": "Cerebrum"
+  },
+  {
+    "number": 19,
+    "question": "Which part of the ear is responsible for the maintenance of balance?",
+    "options": ["Ossicles", "Tympanic membrane", "Eustachian tube", "Semicircular canal"],
+    "answer": "Semicircular canal"
+  },
+  {
+    "number": 20,
+    "question": "Which of the following is not part of the female reproductive system?",
+    "options": ["Ovary", "Seminal vesicle", "Uterus", "Vagina"],
+    "answer": "Seminal vesicle"
+  },
+  {
+    "number": 21,
+    "question": "The female parts of a flower consist of the",
+    "options": ["stigma, style and ovary", "petals, sepals and anthers", "stigma, sepals and anthers", "filaments, style and pollen grains"],
+    "answer": "stigma, style and ovary"
+  },
+  {
+    "number": 22,
+    "question": "Succession is best described as",
+    "options": ["a process whereby different organism systematically colonize a barren habitat until a stable community is formed", "a process whereby plants occupy a barren habitat until a suitable habitat is formed", "a process whereby animals occupy a barren habitat until a suitable habitat is formed", "the replacement of weaker plants and animals by the stronger ones"],
+    "answer": "a process whereby different organism systematically colonize a barren habitat until a stable community is formed"
+  },
+  {
+    "number": 23,
+    "question": "Which of the following is the most sensitive spot of the retina?",
+    "options": ["Conjunctiva", "Cornea", "Lens", "Fovea centralis"],
+    "answer": "Fovea centralis"
+  },
+  {
+    "number": 24,
+    "question": "What part of the brain is concerned with the regulation of the heart beat, body temperature and breathing rate?",
+    "options": ["Cerebellum", "Medulla oblongata", "Cerebrum", "Olfactory lobe"],
+    "answer": "Medulla oblongata"
+  },
+  {
+    "number": 25,
+    "question": "Which of the following is the function of bright colorations of petals in flowers?",
+    "options": ["Beautifying the environment", "Providing warning coloration for insects", "Attracting pollinating insect", "Production of chloroplasts for photosynthesis"],
+    "answer": "Attracting pollinating insect"
+  },
+  {
+    "number": 26,
+    "question": "Which of the following organs is associated with deamination of proteins?",
+    "options": ["Lung", "Stomach", "Kidney", "Liver"],
+    "answer": "Liver"
+  },
+  {
+    "number": 27,
+    "question": "The groups of sensory cells found on the upper surface of the tongue are called",
+    "options": ["ampullae", "taste buds", "nerve cells", "somatic cells"],
+    "answer": "taste buds"
+  },
+  {
+    "number": 28,
+    "question": "A climax community is characterized by",
+    "options": ["a stable composition of plant and animal species", "rapid changes in the composition of species", "constant changes in appearance of the habitat", "different species occurring at different times"],
+    "answer": "a stable composition of plant and animal species"
+  },
+  {
+    "number": 29,
+    "question": "Which of the following is not a characteristic of overcrowding in plant and animal community?",
+    "options": ["Population outstripping available space", "Population exceeding available food", "Competition within the population", "Increase in primary production"],
+    "answer": "Increase in primary production"
+  },
+  {
+    "number": 30,
+    "question": "Which of the following actions is not an example of a simple reflex action?",
+    "options": ["Knee jerk", "Blinking of the eye", "Withdrawal of hand from hot objects", "Reading a book"],
+    "answer": "Reading a book"
+  },
+  {
+    "number": 31,
+    "question": "The ability of eye to alter the focal length of the lens with regard to the distance of the objects from the eye is known as",
+    "options": ["binocular vision", "accommodation", "nocturnal vision", "distortion"],
+    "answer": "accommodation"
+  },
+  {
+    "number": 32,
+    "question": "The following conditions form the basis of competition in a habitat except",
+    "options": ["food", "space", "body structure", "reproductive mate"],
+    "answer": "body structure"
+  },
+  {
+    "number": 33,
+    "question": "The process whereby poisonous compounds are made harmless in the liver is called",
+    "options": ["deamination", "glycolysis", "dehydration", "detoxification"],
+    "answer": "detoxification"
+  },
+  {
+    "number": 34,
+    "question": "The part of the ear which equalizes air pressure on either side of the ear drum is the",
+    "options": ["Auditory meatus", "malleus", "Eustachian tube", "oval window"],
+    "answer": "Eustachian tube"
+  },
+  {
+    "number": 35,
+    "question": "The series of changes that occur in a seed by which the embryo develops into a seedling is known as",
+    "options": ["Fertilization", "gametogenesis", "Pollination", "germination"],
+    "answer": "germination"
+  },
+  {
+    "number": 36,
+    "question": "Plant hormones include the following except",
+    "options": ["Insulin", "auxin", "cytokinin", "gibberrelin"],
+    "answer": "Insulin"
+  },
+  {
+    "number": 37,
+    "question": "Which hormone is responsible for the development of male secondary sexual characteristics?",
+    "options": ["Luteinizing hormone", "estrogen", "Progesterone", "testosterone"],
+    "answer": "testosterone"
+  },
+  {
+    "number": 38,
+    "question": "The following are diseases associated with liver except",
+    "options": ["gallstones", "oedema", "diabetes mellitus", "cirrhosis of the liver"],
+    "answer": "oedema"
+  },
+  {
+    "number": 39,
+    "question": "The largest internal organ in the body of mammals is",
+    "options": ["Liver", "kidney", "bile", "brain"],
+    "answer": "Liver"
+  },
+  {
+    "number": 40,
+    "question": "The layer of the skin that contains the pigment melanin and keratin is referred to as",
+    "options": ["cornified layer", "malpighian layer", "granular layer", "the receptors"],
+    "answer": "malpighian layer"
+  },
+  {
+    "number": 41,
+    "question": "Bile is stored in the",
+    "options": ["gall bladder", "colon", "spleen", "pancreas"],
+    "answer": "gall bladder"
+  },
+  {
+    "number": 42,
+    "question": "The following diseases are associated with the kidney are the following except",
+    "options": ["Nephritis", "oedema", "Hepatitis", "kidney stone"],
+    "answer": "Hepatitis"
+  },
+  {
+    "number": 43,
+    "question": "An organism which maintains a constant temperature irrespective of environmental temperature fluctuation is",
+    "options": ["an insect", "a mammal", "an amphibian", "a fish"],
+    "answer": "a mammal"
+  },
+  {
+    "number": 44,
+    "question": "A neuron that transmits impulse directly from sensory cells is called",
+    "options": ["an afferent neuron", "an efferent neuron", "a relay neuron", "a peripheral neuron"],
+    "answer": "an afferent neuron"
+  },
+  {
+    "number": 45,
+    "question": "The smallest branches on the cell body of a neuron are called",
+    "options": ["neurons", "dendrons", "ganglia", "schwan cells"],
+    "answer": "dendrons"
+  },
+  {
+    "number": 46,
+    "question": "The term community is defined as",
+    "options": ["different groups of plants and animals in the same area and interacting with each other", "the consumers and producers living in a habitat", "living organisms interacting with physical factors of an environment", "animals which mutually derive benefit from their association"],
+    "answer": "different groups of plants and animals in the same area and interacting with each other"
+  },
+  {
+    "number": 47,
+    "question": "Which of the following features is used by chameleons to escape predation?",
+    "options": ["Fearsome appearance", "Coiling tail", "Offensive smell", "Adaptive coloration"],
+    "answer": "Adaptive coloration"
+  },
+  {
+    "number": 48,
+    "question": "Which of the following is not a function of mammalian skin?",
+    "options": ["Regulation of body temperature", "Reception of external stimuli", "Excretion", "gaseous exchange"],
+    "answer": "gaseous exchange"
+  },
+  {
+    "number": 49,
+    "question": "A person had an accident that affected the skull but not the nose and later lost the sense of smell. The accident must have affected the",
+    "options": ["nose by extension", "olfactory lobes of the brain", "passages from the nose to the brain", "part of the skull near the nose"],
+    "answer": "olfactory lobes of the brain"
+  },
+  {
+    "number": 50,
+    "question": "A community reaches a climax when",
+    "options": ["only pioneer organisms are present", "new habitats are constantly being formed", "there is an introduction of new plants and animal species within the community", "composition and size of a community remains constant over a long period of time"],
+    "answer": "composition and size of a community remains constant over a long period of time"
+  }
+]
