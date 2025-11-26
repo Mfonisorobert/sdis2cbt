@@ -247,7 +247,7 @@
   },
   {
     "number": 42,
-    "question": "The following diseases are associated with the kidney are the following except",
+    "question": "The following diseases are associated with the kidney except",
     "options": ["Nephritis", "oedema", "Hepatitis", "kidney stone"],
     "answer": "Hepatitis"
   },
