@@ -239,7 +239,7 @@ if (!hasStarted) {
       <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">
       {/* <h2 className="text-2xl font-bold text-center text-blue-950 mb-2">THIRD TERM EXAM</h2> */}
       {/* {showScore ? studentName : "HOW WELL DO YOU KNOW SUN DREAM?"} */}
-      {showScore ? studentName : "YEAR 12 - BIOLOGY"}
+      {showScore ? studentName : "YEAR 12 - PHYSICS"}
       </h3>
 
       
@@ -251,7 +251,7 @@ if (!hasStarted) {
         <>
         <p className="text-1xl text-green-800 -mb-2  text-center"><span className="font-medium">{studentName}</span></p>
           
-          <Timer duration={1800} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
+          <Timer duration={2400} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
           {questions.length > 0 && (
             <Question
               questionObj={questions[currentQIndex]}
