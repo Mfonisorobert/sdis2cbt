@@ -1,55 +1,554 @@
 [
-    {"number":1,"question":"Which of the following types of radiation has the highest frequency.","options":["Infrared rays","Radio waves","Visible rays","X-rays"],"answer":"Infrared rays"},
-    {"number":2,"question":"Which type of E-M radiation can be used to take photographs in the haze?","options":["Radio wave","Infrared wave","Visible light","U-V rays"],"answer":"U-V rays"},
-    {"number":3,"question":"The frequency of infrared waves is more than the frequency of","options":["Light waves","X-rays","γ-rays","Radio waves"],"answer":"Light waves"},
-    {"number":4,"question":"If a broadcasting station sends out waves of wavelength 300m, on what frequency is the station operating","options":["2.0 x 10^6 Hz","1.0 x 10^6 Hz","3.0 x 10^6 Hz","4.0 x 10^6 Hz"],"answer":"1.0 x 10^6 Hz"},
-    {"number":5,"question":"Time taken to complete a wave is termed as","options":["Span","Period","Life","Duration"],"answer":"Period"},
-    {"number":6,"question":"Any two shortest points in a wave that are in phase is known as","options":["Wave distance","Wave length","Phase length","Amplitude"],"answer":"Wave length"},
-    {"number":7,"question":"When an atom is in the ground state, it is said to be;","options":["Grounded","Excited","Stable","Ionized","Radiating"],"answer":"Stable"},
-    {"number":8,"question":"Which of the following gives rise to line spectra observed in atoms?","options":["Kinetic energy of a moving atom","Potential energy of an electron inside an atom","Change of an electron from a higher to a lower level in the atom","Disturbed proton in the nucleus","Excitation of an electron in the atom"],"answer":"Change of an electron from a higher to a lower level in the atom"},
-    {"number":9,"question":"What happens when excited electrons in an atom return to lower energy level?","options":["They absorb photons","They emit photons","They emit photons","They absorb neutrons."],"answer":"They emit photons"},
-    {"number":10,"question":"Bohr’s theory provides evidence for the:","options":["Structure of the atom","Positive charge of an electron","Existence of energy levels in the atom","Positive charge on a proton"],"answer":"Existence of energy levels in the atom"},
-    {"number":11,"question":"How many alpha particles are emitted in the radioactive decay of 23892U → 23090Th + 4 2He + 0−1β + ΔE","options":["2","3","6","12"],"answer":"3"},
-    {"number":12,"question":"Which of the following is not applicable in explaining nuclear fusion?","options":["The nuclei must overcome the electrical repulsion of their positive charges","For fusion to occur, the nuclei must come together within range of the nuclear force.","The electrostatic potential energy of the nuclei represents the initial kinetic energy which the fusion nuclei must have.","The energy required for fusion to occur could be obtained at standard temperature and pressure"],"answer":"The energy required for fusion to occur could be obtained at standard temperature and pressure"},
-    {"number":13,"question":"A radioactive element has a decay constant of 0.077 s^-1, calculate its half-life.","options":["12.5 s","9.0 s","5.1 s","0.5 s"],"answer":"9.0s"},
-    {"number":14,"question":"In 90 seconds, the mass of a radioactive element reduces to 1/16th of its original value. Determine the half-life of the element.","options":["15.0 s","18.0 s","22.5 s","30.0 s"],"answer":"22.5 s"},
-    {"number":15,"question":"If a radioactive atom emits a beta particle, the mass number of the atom.","options":["Decreases by one","Decreases by four","Increases by one","Increases by four","Remains the same"],"answer":"Remains the same"},
-    {"number":16,"question":"Which of the following materials is used to cause fission in an atomic reactor?","options":["Alpha particles","Beta particles","Electron","Neutrons"],"answer":"Neutrons"},
-    {"number":17,"question":"What is the decay constant of a radioactive element whose half-life is 3 seconds?","options":["0.1325 s^-1","0.2315 s^-1","0.3475 s^-1","0.6938 s^-1","0.9248 s^-1"],"answer":"0.2315 s^-1"},
-    {"number":18,"question":"The minimum energy required to remove an electron from an atom is known as","options":["Excitation energy","Ionization","Binding energy","Photon energy"],"answer":"Binding energy"},
-    {"number":19,"question":"The atoms of a gas are excited to produce a discharge which is examined with a spectrometer. The examination will reveal;","options":["A totally dark background","The colours of the rainbow","An emission spectrum","An absorption spectrum","A continuous spectrum"],"answer":"An emission spectrum"},
-    {"number":20,"question":"An important experimental evidence for existence of line of quantized energy levels in the atom is the existence of.","options":["Spectral lines","Massive nucleus","Ionization energy","Valence electrons"],"answer":"Spectral lines"},
-    {"number":21,"question":"The higher the energy of photon released, the shorter the wave length","options":["True","False","Not so true","Not so false"],"answer":"False"},
-    {"number":22,"question":"The bigger the quantum jump;","options":["The lesser the energy released","The greater the energy released","The lower the frequency of light emitted","None of the above."],"answer":"The greater the energy released"},
-    {"number":23,"question":"The lowest energy level the electron can occupy is the","options":["High state energy","Mid-state energy","Ground state energy","All of the above"],"answer":"Ground state energy"},
-    {"number":24,"question":"Bohr and ______ models of atom assign specific energy to an electron when it occupies one of the allowed energy levels.","options":["Optics","Wave mechanics","Thermodynamics","Equilibrium of forces"],"answer":"Wave mechanics"},
-    {"number":25,"question":"If a voltage changes from 5v to 12v, and also from South to East, the voltage is","options":["D.C voltage","Ultra voltage","A.C voltage","None of the above"],"answer":"None of the above"},
-    {"number":26,"question":"A current has a constant magnitude and constant direction, such current is known as:","options":["A.C Current","Low current","High current","D.C current"],"answer":"D.C current"},
-    {"number":27,"question":"sincot =","options":["Sin2πωt","Cos2πft","Tanωt","Sin2πft"],"answer":"Cos2πft"},
-    {"number":28,"question":"If Io = peak current = sincot / I then V = ?","options":["Sinωt","Vosinωt","Sin2πft","Iosinωt"],"answer":"Sin2πft"},
-    {"number":29,"question":"A signal is said to be SINUSOIDAL, because","options":["It is out of phase","In phase","It can be represented by sine or cosine curve"],"answer":"It can be represented by sine or cosine curve"},
-    {"number":30,"question":"The amplitude of a.c current or voltage is","options":["The lowest point","The middle point","The peak value","Any of the above"],"answer":"The peak value"},
-    {"number":31,"question":"The average of a.c current/voltage is zero because it","options":["Has no magnitude","Has no direction","Is negligible","Changes between maximum positive and minimum negative"],"answer":"Changes between maximum positive and minimum negative"},
-    {"number":32,"question":"The value of a.c current which produces heat in a resistor at the same rate as that of D.C is","options":["Root mean square","Minimum value","Zero point","All of the above"],"answer":"Root mean square"},
-    {"number":33,"question":"Effective value of a.c current is","options":["Voltage","Phase","Root mean square","None of the above"],"answer":"Root mean square"},
-    {"number":34,"question":"The root mean square (r.m.s) or the effective value of an a.c. current is related to the peak value of the a.c current by the equation.","options":["Irms = √(Io^2)","P = I^2_{r.m.s}.R","Vosin2πft","Any of the above"],"answer":"Irms = √(Io^2)"},
-    {"number":35,"question":"A sinusoidal a.c voltage is given by the equation V = 240 sin(100ūt). Find the frequency of the source.","options":["100 Hz","50 Hz","1000 Hz","10 Hz"],"answer":"50 Hz"},
-    {"number":36,"question":"The peak value of an alternating current passing through a resistor is √8 A. What is the r.m.s value of the current?","options":["15 A","90 A","40 A","2 A"],"answer":"2 A"},
-    {"number":37,"question":"The graphs shown (Xc vs c constant and Xc vs f constant) are graphs of:","options":["Pure resistor","Pure capacitor","Pure inductor","Capacitive reactance"],"answer":"Pure resistor"},
-    {"number":38,"question":"Xc = I/2πfc means","options":["The reactance (Xc) of a capacitor is inversely proportional to the frequency of the source","The Xc of a capacitor is directly proportional to the source frequency","The reactance (Xc) of a capacitor is directly proportional to the capacitance","None of the above"],"answer":"The reactance (Xc) of a capacitor is inversely proportional to the frequency of the source"},
-    {"number":39,"question":"The magnitude of inductive reactance (XL) is given by:","options":["XL = 1/ωC","XL = Iosin2πft","XL = 2πfL","Any of the above"],"answer":"XL = 2πfL"},
-    {"number":40,"question":"Inductive reactance is","options":["Resistance of a.c flow by an inductor","Reaction of A.C flow to a resistor","Opposition of a capacitor to a resistor","All of the above"],"answer":"Reaction of A.C flow to a resistor"},
-    {"number":41,"question":"The graph shows (current & voltage relationship):","options":["Phase relationship of current and voltage in capacitor","Phase relationship of current and voltage in an inductor","Capacitive reactance","All of the above."],"answer":"Phase relationship of current and voltage in capacitor"},
-    {"number":42,"question":"The diagram shows the:","options":["phase relationship of current and voltage in a capacitor","Phase relationship of current and voltage in an inductor","Inductive reactance","Capacitive reactance","(other)"],"answer":"(other)"},
-    {"number":43,"question":"Calculate the peak voltage of a mains supply of r.m.s. value 220 V","options":["112 V","150 V","222 V","240 V","311 V"],"answer":"112 V"},
-    {"number":44,"question":"The power dissipated in an a.c. circuit with an r.m.s current of c A, r.m.s voltage of 10 V and phase angle 60° is","options":["25 W","50 W","120 W","125 W"],"answer":"25 W"},
-    {"number":45,"question":"The voltage of the domestic electric supply is represented by the equation V = 311 sin 314.2 t. Determine the frequency of the a.c supply.","options":["50.0 Hz","100.0 Hz","311.0 Hz","314.2 Hz"],"answer":"50.0 Hz"},
-    {"number":46,"question":"At what frequency would a capacitor of 2.5π F used in a radio circuit have a reactance of 250 Ω?","options":["800/π Hz","200π Hz","2000π Hz","π/800 Hz"],"answer":"800/π Hz"},
-    {"number":47,"question":"In a purely inductive circuit, the current","options":["Lags behind the voltage phase by 90°","Leads the voltage in phase by 90°","Is in the same phase with the voltage","Leads the voltage by 180°"],"answer":"Leads the voltage by 180°"},
-    {"number":48,"question":"A capacitor of capacitance 25 μF is connected to an a.c power source of frequency 200/π Hz. Calculate the reactance of the capacitor","options":["0.01 Ω","0.02 Ω","50.00 Ω","100.00 Ω"],"answer":"50.00 Ω"},
-    {"number":49,"question":"Calculate the inductance L of the coil in the circuit shown (240 V, 100/π Hz, 2 A).","options":["14.4 H","3.8 H","0.6 H","0.4 H","0.2 H"],"answer":"3.8 H"},
-    {"number":50,"question":"Capacitive reactance is","options":["Impedance","Opposition of a capacitor","Opposition of a resistor","All of the above"],"answer":"Opposition of a capacitor"}
+    {
+      "number": 1,
+      "question": "Individuals that have obtained sufficient education and training in the field of computer are called?",
+      "options": [
+         "Program Analyst",
+         "Computer Professionals",
+         "Computer commissioners",
+         "Computer Instructor"
+      ],
+      "answer": "Computer Professionals"
+    },
+    {
+      "number": 2,
+      "question": "All the following are careers in the field of computers except?",
+      "options": [
+         "Computer Engineer",
+         "Programmer",
+         "Network Administrator",
+         "Singer"
+      ],
+      "answer": "Singer"
+    },
+    {
+      "number": 3,
+      "question": "All of these are means through which computer viruses can spread from one system to another Except?",
+      "options": [
+         "Internet download",
+         "Computer network",
+         "Infected memory devices",
+         "Blood transfusion"
+      ],
+      "answer": "Blood transfusion"
+    },
+    {
+      "number": 4,
+      "question": "All of these are internet search engines except?",
+      "options": [
+         "Google",
+         "Yahoo",
+         "Facebook",
+         "Bing"
+      ],
+      "answer": "Facebook"
+    },
+    {
+      "number": 5,
+      "question": "Websites or software that enable a person to find a document and other media on the internet are called?",
+      "options": [
+         "Google",
+         "Internet Search Engines",
+         "Network Search",
+         "Search query"
+      ],
+      "answer": "Internet Search Engines"
+    },
+    {
+      "number": 6,
+      "question": "A word or group of words that are typed by the user in the search bar of the search engine is called?",
+      "options": [
+         "search query keyword",
+         "Search engine result page",
+         "Likes",
+         "Comments"
+      ],
+      "answer": "search query keyword"
+    },
+    {
+      "number": 7,
+      "question": "The gap between those who have effective access to digital and information technologies and those who have little or no access at all is called?",
+      "options": [
+         "New Economy divide",
+         "Old Economy divide",
+         "Digital divide",
+         "All of the above"
+      ],
+      "answer": "Digital divide"
+    },
+    {
+      "number": 8,
+      "question": "A physically intensive economy is called?",
+      "options": [
+         "New Economy",
+         "Old economy",
+         "Digital Split",
+         "Mechanical economy"
+      ],
+      "answer": "Old economy"
+    },
+    {
+      "number": 9,
+      "question": "One of these is a feature of the new economy?",
+      "options": [
+         "Requires a lot of labour",
+         "Time-consuming",
+         "It is knowledge-based",
+         "Mechanically driven"
+      ],
+      "answer": "It is knowledge-based"
+    },
+    {
+      "number": 10,
+      "question": "All of these are benefits of the new economy except?",
+      "options": [
+         "Creates new jobs",
+         "Attracts no investment",
+         "Greater competition",
+         "Businesses can start with small capital"
+      ],
+      "answer": "Attracts no investment"
+    },
+    {
+      "number": 11,
+      "question": "All the following are examples of DBMS packages except?",
+      "options": [
+         "MS Access",
+         "MS Word",
+         "Oracle",
+         "MY SQL server"
+      ],
+      "answer": "MS Word"
+    },
+    {
+      "number": 12,
+      "question": "A single piece of information about an entity in database is called?",
+      "options": [
+         "Record",
+         "Primary key",
+         "Database",
+         "Field"
+      ],
+      "answer": "Field"
+    },
+    {
+      "number": 13,
+      "question": "Which of these can serve as a primary key?",
+      "options": [
+         "Name",
+         "Voter's Card number",
+         "Address",
+         "Age"
+      ],
+      "answer": "Voter's Card number"
+    },
+    {
+      "number": 14,
+      "question": "One of these is NOT a form of database?",
+      "options": [
+         "Hierarchical",
+         "Record",
+         "Relational",
+         "Network"
+      ],
+      "answer": "Record"
+    },
+    {
+      "number": 15,
+      "question": "...... form of database permits the organization of data in the form of a tree?",
+      "options": [
+         "Hierarchical",
+         "Record",
+         "Relational",
+         "Network"
+      ],
+      "answer": "Hierarchical"
+    },
+    {
+      "number": 16,
+      "question": "Which of the following best describes digital literacy?",
+      "options": [
+         "The ability to read and write only printed books",
+         "The ability to use digital tools and technologies effectively",
+         "The ability to speak many languages",
+         "The ability to draw on a computer"
+      ],
+      "answer": "The ability to use digital tools and technologies effectively"
+    },
+    {
+      "number": 17,
+      "question": "A digitally literate person can?",
+      "options": [
+         "Operate digital devices and find reliable online information",
+         "Only use paper and pen for schoolwork",
+         "Avoid social media and the internet completely",
+         "Write letters using a typewriter only"
+      ],
+      "answer": "Operate digital devices and find reliable online information"
+    },
+    {
+      "number": 18,
+      "question": "Which of these is NOT part of digital literacy?",
+      "options": [
+         "Knowing how to send an email",
+         "Using search engines to find information",
+         "Creating digital documents",
+         "Refusing to use any electronic device"
+      ],
+      "answer": "Refusing to use any electronic device"
+    },
+    {
+      "number": 19,
+      "question": "The main goal of digital literacy is to help students?",
+      "options": [
+         "Become experts in typing only",
+         "Understand and use digital technology responsibly and effectively",
+         "Play more video games",
+         "Avoid using the internet for learning"
+      ],
+      "answer": "Understand and use digital technology responsibly and effectively"
+    },
+    {
+      "number": 20,
+      "question": "Which of the following best defines a search engine?",
+      "options": [
+         "A device used to browse the internet",
+         "A program that finds information on the internet based on keywords",
+         "A website for sending emails",
+         "A tool for editing images"
+      ],
+      "answer": "A program that finds information on the internet based on keywords"
+    },
+    {
+      "number": 21,
+      "question": "Which of the following is an example of a search engine?",
+      "options": [
+         "Facebook",
+         "Gmail",
+         "Google",
+         "WhatsApp"
+      ],
+      "answer": "Google"
+    },
+    {
+      "number": 22,
+      "question": "The words or phrases entered into a search engine to find information are called?",
+      "options": [
+         "Keywords",
+         "Passwords",
+         "Usernames",
+         "Websites"
+      ],
+      "answer": "Keywords"
+    },
+    {
+      "number": 23,
+      "question": "What is the main purpose of a search engine?",
+      "options": [
+         "To design web pages",
+         "To locate information on the internet",
+         "To send and receive messages",
+         "To store personal files"
+      ],
+      "answer": "To locate information on the internet"
+    },
+    {
+      "number": 24,
+      "question": "Which of the following is not a search engine?",
+      "options": [
+         "Google",
+         "Yahoo",
+         "YouTube",
+         "Bing"
+      ],
+      "answer": "YouTube"
+    },
+    {
+      "number": 25,
+      "question": "The list of web pages displayed after a search query is called?",
+      "options": [
+         "Search engine result page",
+         "Browser window",
+         "Homepage",
+         "Web directory"
+      ],
+      "answer": "Search engine result page"
+    },
+    {
+      "number": 26,
+      "question": "The search engine that uses the slogan “Just Ask!” is?",
+      "options": [
+         "Ask.com",
+         "Google",
+         "Bing",
+         "Yahoo"
+      ],
+      "answer": "Ask.com"
+    },
+    {
+      "number": 27,
+      "question": "To save a file with a new name or in a new location, you use the?",
+      "options": [
+         "Save command",
+         "Save As command",
+         "New command",
+         "Open command"
+      ],
+      "answer": "Save As command"
+    },
+    {
+      "number": 28,
+      "question": "Which of these is a command used to undo the last action?",
+      "options": [
+         "Ctrl + C",
+         "Ctrl + V",
+         "Ctrl + Z",
+         "Ctrl + X"
+      ],
+      "answer": "Ctrl + Z"
+    },
+    {
+      "number": 29,
+      "question": "To copy a selected text, you use the keyboard shortcut_____",
+      "options": [
+         "Ctrl + X",
+         "Ctrl + V",
+         "Ctrl + C",
+         "Ctrl + P"
+      ],
+      "answer": "Ctrl + C"
+    },
+    {
+      "number": 30,
+      "question": "Microsoft Access is an example of what type of software?",
+      "options": [
+         "Word Processor",
+         "Spreadsheet",
+         "Database Management System",
+         "Presentation Software"
+      ],
+      "answer": "Database Management System"
+    },
+    {
+      "number": 31,
+      "question": "Which of the following is used to store data in Microsoft Access?",
+      "options": [
+         "Tables",
+         "Slides",
+         "Cells",
+         "Pages"
+      ],
+      "answer": "Tables"
+    },
+    {
+      "number": 32,
+      "question": "In Microsoft Access, a collection of related data stored together is called a _____?",
+      "options": [
+         "Worksheet",
+         "Database",
+         "Document",
+         "Folder"
+      ],
+      "answer": "Database"
+    },
+    {
+      "number": 33,
+      "question": "Which of the following best describes a field in Microsoft Access?",
+      "options": [
+         "A row in a table",
+         "A column in a table",
+         "A complete record",
+         "A type of report"
+      ],
+      "answer": "A column in a table"
+    },
+    {
+      "number": 34,
+      "question": "A column in a database contains a …….?",
+      "options": [
+         "Record",
+         "Field",
+         "Form",
+         "Query"
+      ],
+      "answer": "Field"
+    },
+    {
+      "number": 35,
+      "question": "Which of these is not an object in Microsoft Access?",
+      "options": [
+         "Table",
+         "Form",
+         "Chart",
+         "Query"
+      ],
+      "answer": "Chart"
+    },
+    {
+      "number": 36,
+      "question": "Database can also be called?",
+      "options": [
+         "Data bank",
+         "Base for data",
+         "Data Link",
+         "All of Above"
+      ],
+      "answer": "Data bank"
+    },
+    {
+      "number": 37,
+      "question": "Which of the following connects two tables in a database?",
+      "options": [
+         "Field",
+         "Primary Key",
+         "Query",
+         "Form"
+      ],
+      "answer": "Primary Key"
+    },
+    {
+      "number": 38,
+      "question": "In database terminology, a field is also known as a ______?",
+      "options": [
+         "File",
+         "Attribute",
+         "Record",
+         "Query"
+      ],
+      "answer": "Attribute"
+    },
+    {
+      "number": 39,
+      "question": "What is the default file extension for a Microsoft Access database?",
+      "options": [
+         ".xls",
+         ".docx",
+         ".accdb",
+         ".pptx"
+      ],
+      "answer": ".accdb"
+    },
+    {
+      "number": 40,
+      "question": "Which tab on the Access ribbon is used to create a new Table objects?",
+      "options": [
+         "Home",
+         "Create",
+         "External Data",
+         "Database Tools"
+      ],
+      "answer": "Create"
+    },
+    {
+      "number": 41,
+      "question": "Which key is used to move to the next field when entering data?",
+      "options": [
+         "Enter",
+         "Tab",
+         "Shift",
+         "Ctrl"
+      ],
+      "answer": "Tab"
+    },
+    {
+      "number": 42,
+      "question": "In Access, data type “Date/Time” is used to store _____?",
+      "options": [
+         "Numbers only",
+         "Text only",
+         "Dates and time values",
+         "Currency values"
+      ],
+      "answer": "Dates and time values"
+    },
+    {
+      "number": 43,
+      "question": "Which of the following is not a data type in Access?",
+      "options": [
+         "Text",
+         "Currency",
+         "Number",
+         "Paragraph"
+      ],
+      "answer": "Paragraph"
+    },
+    {
+      "number": 44,
+      "question": "One of these is NOT an object in database?",
+      "options": [
+         "Form",
+         "Chair",
+         "Report",
+         "Table"
+      ],
+      "answer": "Chair"
+    },
+    {
+      "number": 45,
+      "question": "One of the following short-cuts assist to shut down the computer system?",
+      "options": [
+         "Ctrl + S",
+         "Alt + F4",
+         "Shift + P",
+         "All of the above"
+      ],
+      "answer": "Alt + F4"
+    },
+    {
+      "number": 46,
+      "question": "What is a database?",
+      "options": [
+         "A place where people dance",
+         "A collection of related data",
+         "A type of computer virus",
+         "A programming language"
+      ],
+      "answer": "A collection of related data"
+    },
+    {
+      "number": 47,
+      "question": "What is the main purpose of a database?",
+      "options": [
+         "To destroy information",
+         "To store and manage information easily",
+         "To play music",
+         "To print documents"
+      ],
+      "answer": "To store and manage information easily"
+    },
+    {
+      "number": 48,
+      "question": "Which of the following can be used to create and manage a database?",
+      "options": [
+         "Microsoft Word",
+         "Microsoft Access",
+         "Paint",
+         "PowerPoint"
+      ],
+      "answer": "Microsoft Access"
+    },
+    {
+      "number": 49,
+      "question": "What is a record in a database?",
+      "options": [
+         "A row of related information about one person or item",
+         "A computer game",
+         "A drawing tool",
+         "A database software"
+      ],
+      "answer": "A row of related information about one person or item"
+    },
+    {
+      "number": 50,
+      "question": "In a student database, which of the following could be a field?",
+      "options": [
+         "Name",
+         "Student",
+         "Record",
+         "Database"
+      ],
+      "answer": "Name"
+    }
   ]
-
 
 
