@@ -1,554 +1,552 @@
-[
+ [
     {
       "number": 1,
-      "question": "Individuals that have obtained sufficient education and training in the field of computer are called?",
+      "question": "Which of the following statements is not true of halogens?",
       "options": [
-         "Program Analyst",
-         "Computer Professionals",
-         "Computer commissioners",
-         "Computer Instructor"
+        "they exist in different physical states.",
+        "they exist as diatomic molecules.",
+        "their ionic radii decrease down the group.",
+        "their melting and boiling points increase down the group."
       ],
-      "answer": "Computer Professionals"
+      "answer": "their ionic radii decrease down the group."
     },
     {
       "number": 2,
-      "question": "All the following are careers in the field of computers except?",
+      "question": "Elements in the same group of the periodic table have",
       "options": [
-         "Computer Engineer",
-         "Programmer",
-         "Network Administrator",
-         "Singer"
+        "The same number of valence electrons",
+        "the same number of electron shells.",
+        "different chemical behaviour",
+        "The same atomic size."
       ],
-      "answer": "Singer"
+      "answer": "The same number of valence electrons"
     },
     {
       "number": 3,
-      "question": "All of these are means through which computer viruses can spread from one system to another Except?",
+      "question": "The following properties are characteristics of transition elements except",
       "options": [
-         "Internet download",
-         "Computer network",
-         "Infected memory devices",
-         "Blood transfusion"
+        "formation of complexions.",
+        "fixed oxidation states.",
+        "formation of coloured compounds.",
+        "catalytic abilities."
       ],
-      "answer": "Blood transfusion"
+      "answer": "fixed oxidation states."
     },
     {
       "number": 4,
-      "question": "All of these are internet search engines except?",
+      "question": "An element Q forms a compound QCl5. In which group of the periodic table is Q?",
       "options": [
-         "Google",
-         "Yahoo",
-         "Facebook",
-         "Bing"
+        "I",
+        "III",
+        "V",
+        "VII"
       ],
-      "answer": "Facebook"
+      "answer": "V"
     },
     {
       "number": 5,
-      "question": "Websites or software that enable a person to find a document and other media on the internet are called?",
+      "question": "Chlorine, bromine and iodine belong to the same group and",
       "options": [
-         "Google",
-         "Internet Search Engines",
-         "Network Search",
-         "Search query"
+        "are gaseous at room temperature.",
+        "form white precipitate",
+        "react violently with hydrogen without heating",
+        "react with alkali."
       ],
-      "answer": "Internet Search Engines"
+      "answer": "react with alkali."
     },
     {
       "number": 6,
-      "question": "A word or group of words that are typed by the user in the search bar of the search engine is called?",
+      "question": "Which of the following elements can conveniently be placed in two groups in the periodic table?",
       "options": [
-         "search query keyword",
-         "Search engine result page",
-         "Likes",
-         "Comments"
+        "carbon.",
+        "copper.",
+        "hydrogen.",
+        "oxygen."
       ],
-      "answer": "search query keyword"
+      "answer": "hydrogen."
     },
     {
       "number": 7,
-      "question": "The gap between those who have effective access to digital and information technologies and those who have little or no access at all is called?",
+      "question": "Which of the following halogens is solid at room temperature?",
       "options": [
-         "New Economy divide",
-         "Old Economy divide",
-         "Digital divide",
-         "All of the above"
+        "bromine.",
+        "Chlorine.",
+        "fluorine",
+        "iodine."
       ],
-      "answer": "Digital divide"
+      "answer": "iodine."
     },
     {
       "number": 8,
-      "question": "A physically intensive economy is called?",
+      "question": "To which group and period respectively does an element with 15 electrons belong?",
       "options": [
-         "New Economy",
-         "Old economy",
-         "Digital Split",
-         "Mechanical economy"
+        "3 and 3.",
+        "3 and 5.",
+        "5 and 3.",
+        "5 and 5."
       ],
-      "answer": "Old economy"
+      "answer": "5 and 3."
     },
     {
       "number": 9,
-      "question": "One of these is a feature of the new economy?",
+      "question": "Which of the following elements is a d-block element?",
       "options": [
-         "Requires a lot of labour",
-         "Time-consuming",
-         "It is knowledge-based",
-         "Mechanically driven"
+        "calcium.",
+        "iron.",
+        "lithium.",
+        "silicon."
       ],
-      "answer": "It is knowledge-based"
+      "answer": "iron."
     },
     {
       "number": 10,
-      "question": "All of these are benefits of the new economy except?",
+      "question": "Calcium and magnesium belong to the same group in the periodic table because both",
       "options": [
-         "Creates new jobs",
-         "Attracts no investment",
-         "Greater competition",
-         "Businesses can start with small capital"
+        "are metals.",
+        "form cation.",
+        "form colourless salts.",
+        "have the same number of valence electrons."
       ],
-      "answer": "Attracts no investment"
+      "answer": "have the same number of valence electrons."
     },
     {
       "number": 11,
-      "question": "All the following are examples of DBMS packages except?",
+      "question": "Which of the following elements is diatomic?",
       "options": [
-         "MS Access",
-         "MS Word",
-         "Oracle",
-         "MY SQL server"
+        "iron",
+        "neon",
+        "oxygen",
+        "sodium."
       ],
-      "answer": "MS Word"
+      "answer": "oxygen"
     },
     {
       "number": 12,
-      "question": "A single piece of information about an entity in database is called?",
+      "question": "If x is a group III element, its oxide would be represented as",
       "options": [
-         "Record",
-         "Primary key",
-         "Database",
-         "Field"
+        "X3O2.",
+        "X3O.",
+        "X2O3.",
+        "XO3."
       ],
-      "answer": "Field"
+      "answer": "X2O3."
     },
     {
       "number": 13,
-      "question": "Which of these can serve as a primary key?",
+      "question": "Which of the following gases is monatomic?",
       "options": [
-         "Name",
-         "Voter's Card number",
-         "Address",
-         "Age"
+        "argon.",
+        "chlorine.",
+        "nitrogen.",
+        "oxygen."
       ],
-      "answer": "Voter's Card number"
+      "answer": "argon."
     },
     {
       "number": 14,
-      "question": "One of these is NOT a form of database?",
+      "question": "The element with electron configuration 1s² 2s² 2p⁶ 3s² 3p¹ belongs to",
       "options": [
-         "Hierarchical",
-         "Record",
-         "Relational",
-         "Network"
+        "s-block, period 3, group 1.",
+        "p-block, period 3, group 2.",
+        "s-block, period 3, group 3.",
+        "p-block, period 3."
       ],
-      "answer": "Record"
+      "answer": "p-block, period 3."
     },
     {
       "number": 15,
-      "question": "...... form of database permits the organization of data in the form of a tree?",
+      "question": "Which of the following halogens is liquid at room temperature?",
       "options": [
-         "Hierarchical",
-         "Record",
-         "Relational",
-         "Network"
+        "iodine.",
+        "chlorine.",
+        "bromine.",
+        "fluorine."
       ],
-      "answer": "Hierarchical"
+      "answer": "bromine."
     },
     {
       "number": 16,
-      "question": "Which of the following best describes digital literacy?",
+      "question": "Rare gases are stable because they",
       "options": [
-         "The ability to read and write only printed books",
-         "The ability to use digital tools and technologies effectively",
-         "The ability to speak many languages",
-         "The ability to draw on a computer"
+        "are chemically active.",
+        "contain equal number of protons and neutrons.",
+        "contain more electrons than protons.",
+        "have octet structures."
       ],
-      "answer": "The ability to use digital tools and technologies effectively"
+      "answer": "have octet structures."
     },
     {
       "number": 17,
-      "question": "A digitally literate person can?",
+      "question": "In the periodic table, alkaline earth metals can be found in group",
       "options": [
-         "Operate digital devices and find reliable online information",
-         "Only use paper and pen for schoolwork",
-         "Avoid social media and the internet completely",
-         "Write letters using a typewriter only"
+        "I.",
+        "II.",
+        "VI.",
+        "VII."
       ],
-      "answer": "Operate digital devices and find reliable online information"
+      "answer": "II."
     },
     {
       "number": 18,
-      "question": "Which of these is NOT part of digital literacy?",
+      "question": "A transition metal would be expected to",
       "options": [
-         "Knowing how to send an email",
-         "Using search engines to find information",
-         "Creating digital documents",
-         "Refusing to use any electronic device"
+        "form oxides with different formulae.",
+        "have strong oxidizing ability.",
+        "have low density.",
+        "have an atomic structure with an incomplete outermost shell."
       ],
-      "answer": "Refusing to use any electronic device"
+      "answer": "have an atomic structure with an incomplete outermost shell."
     },
     {
       "number": 19,
-      "question": "The main goal of digital literacy is to help students?",
+      "question": "Potassium and sodium show similar chemical properties because they I. belong to the same group in the Periodic Table II. have equal number of electrons in their outermost shells III. both exist in the +1 oxidation state in their compounds IV. belong to the same period in the Periodic Table",
       "options": [
-         "Become experts in typing only",
-         "Understand and use digital technology responsibly and effectively",
-         "Play more video games",
-         "Avoid using the internet for learning"
+        "IV only.",
+        "I & II.",
+        "III & IV.",
+        "I, II & III."
       ],
-      "answer": "Understand and use digital technology responsibly and effectively"
+      "answer": "I, II & III."
     },
     {
       "number": 20,
-      "question": "Which of the following best defines a search engine?",
+      "question": "The oxidation number of sulphur in Fe₂(SO₄)₃ is",
       "options": [
-         "A device used to browse the internet",
-         "A program that finds information on the internet based on keywords",
-         "A website for sending emails",
-         "A tool for editing images"
+        "+2",
+        "+3",
+        "+4",
+        "+6"
       ],
-      "answer": "A program that finds information on the internet based on keywords"
+      "answer": "+6"
     },
     {
       "number": 21,
-      "question": "Which of the following is an example of a search engine?",
+      "question": "Which of the following oxides of nitrogen has oxidation number of 1?",
       "options": [
-         "Facebook",
-         "Gmail",
-         "Google",
-         "WhatsApp"
+        "KNO₃",
+        "N₂O",
+        "N₂O₃",
+        "NO"
       ],
-      "answer": "Google"
+      "answer": "N₂O"
     },
     {
       "number": 22,
-      "question": "The words or phrases entered into a search engine to find information are called?",
+      "question": "The oxidation number of phosphorus in PO₄³⁻ is",
       "options": [
-         "Keywords",
-         "Passwords",
-         "Usernames",
-         "Websites"
+        "+1",
+        "+2",
+        "+3",
+        "+5"
       ],
-      "answer": "Keywords"
+      "answer": "+5"
     },
     {
       "number": 23,
-      "question": "What is the main purpose of a search engine?",
+      "question": "The periodic table is an arrangement of elements according to their",
       "options": [
-         "To design web pages",
-         "To locate information on the internet",
-         "To send and receive messages",
-         "To store personal files"
+        "oxidation number.",
+        "atomic number.",
+        "mass number.",
+        "number of neutrons."
       ],
-      "answer": "To locate information on the internet"
+      "answer": "atomic number."
     },
     {
       "number": 24,
-      "question": "Which of the following is not a search engine?",
+      "question": "The group to which elements belong in the periodic table is determined by the number of",
       "options": [
-         "Google",
-         "Yahoo",
-         "YouTube",
-         "Bing"
+        "electrons.",
+        "core electrons.",
+        "valence shells.",
+        "valence electrons."
       ],
-      "answer": "YouTube"
+      "answer": "valence electrons."
     },
     {
       "number": 25,
-      "question": "The list of web pages displayed after a search query is called?",
+      "question": "Which of the following arrangements indicates the correct decreasing order of ionization energy of period 3 elements?",
       "options": [
-         "Search engine result page",
-         "Browser window",
-         "Homepage",
-         "Web directory"
+        "Na, Al, P, Cl.",
+        "Cl, P, Al, Na.",
+        "Na, P, Cl, Al.",
+        "Al, Na, P, Cl."
       ],
-      "answer": "Search engine result page"
+      "answer": "Cl, P, Al, Na."
     },
     {
       "number": 26,
-      "question": "The search engine that uses the slogan “Just Ask!” is?",
+      "question": "The ionization energy is affected by the following factors except",
       "options": [
-         "Ask.com",
-         "Google",
-         "Bing",
-         "Yahoo"
+        "distance of the outermost electron(s) from the nucleus.",
+        "size of the positive nuclear charge.",
+        "ability to attract shared electron(s).",
+        "screening effect of the inner electron(s)."
       ],
-      "answer": "Ask.com"
+      "answer": "ability to attract shared electron(s)."
     },
     {
       "number": 27,
-      "question": "To save a file with a new name or in a new location, you use the?",
+      "question": "Which of the following statements about the behaviour of the atom is correct?",
       "options": [
-         "Save command",
-         "Save As command",
-         "New command",
-         "Open command"
+        "atomic size decreases down the group.",
+        "atomic size increases across the period.",
+        "anions are smaller than the parent atom.",
+        "cations are smaller than the parent atom."
       ],
-      "answer": "Save As command"
+      "answer": "cations are smaller than the parent atom."
     },
     {
       "number": 28,
-      "question": "Which of these is a command used to undo the last action?",
+      "question": "Which of the following arrangement is in order of increasing ionization energy?",
       "options": [
-         "Ctrl + C",
-         "Ctrl + V",
-         "Ctrl + Z",
-         "Ctrl + X"
+        "Al, Si, P, S.",
+        "Si, Al, S, P.",
+        "S, P, Si, Al.",
+        "P, Si, S, Al."
       ],
-      "answer": "Ctrl + Z"
+      "answer": "Al, Si, P, S."
     },
     {
       "number": 29,
-      "question": "To copy a selected text, you use the keyboard shortcut_____",
+      "question": "Which of the following arrangements shows increasing order of reactivity of the halogens?",
       "options": [
-         "Ctrl + X",
-         "Ctrl + V",
-         "Ctrl + C",
-         "Ctrl + P"
+        "F₂ > Cl₂ > Br₂ > I₂.",
+        "I₂ < Br₂ < Cl₂ < F₂.",
+        "F₂ < Cl₂ < Br₂ < I₂.",
+        "I₂ > Br₂ > Cl₂ > F₂."
       ],
-      "answer": "Ctrl + C"
+      "answer": "I₂ < Br₂ < Cl₂ < F₂."
     },
     {
       "number": 30,
-      "question": "Microsoft Access is an example of what type of software?",
+      "question": "The energy change that accompanies the addition of an electron to an isolated gaseous atom is",
       "options": [
-         "Word Processor",
-         "Spreadsheet",
-         "Database Management System",
-         "Presentation Software"
+        "atomization.",
+        "electronegativity.",
+        "electron affinity.",
+        "ionization energy."
       ],
-      "answer": "Database Management System"
+      "answer": "electron affinity."
     },
     {
       "number": 31,
-      "question": "Which of the following is used to store data in Microsoft Access?",
+      "question": "Which of the following arrangements is in order of increasing metallic property?",
       "options": [
-         "Tables",
-         "Slides",
-         "Cells",
-         "Pages"
+        "Li < Na < K.",
+        "Na < Li < K.",
+        "K < Na < Li.",
+        "K < Li < Na."
       ],
-      "answer": "Tables"
+      "answer": "Li < Na < K."
     },
     {
       "number": 32,
-      "question": "In Microsoft Access, a collection of related data stored together is called a _____?",
+      "question": "In which of the following series are the atoms arranged in order of increasing ionization energy?",
       "options": [
-         "Worksheet",
-         "Database",
-         "Document",
-         "Folder"
+        "Li, Na, K.",
+        "B, Be, Li.",
+        "O, F, Ne.",
+        "Be, Mg, Ca."
       ],
-      "answer": "Database"
+      "answer": "B, Be, Li."
     },
     {
       "number": 33,
-      "question": "Which of the following best describes a field in Microsoft Access?",
+      "question": "In which of the following atoms is the ionic radius larger than the atomic radius? [₁₁Na, ₁₂Mg, ₁₃Al, ₁₇Cl]",
       "options": [
-         "A row in a table",
-         "A column in a table",
-         "A complete record",
-         "A type of report"
+        "aluminium.",
+        "chlorine",
+        "magnesium",
+        "sodium."
       ],
-      "answer": "A column in a table"
+      "answer": "magnesium"
     },
     {
       "number": 34,
-      "question": "A column in a database contains a …….?",
+      "question": "Which of the following statements about ionic radius is correct? Ionic radius",
       "options": [
-         "Record",
-         "Field",
-         "Form",
-         "Query"
+        "increases as nuclear charge increase",
+        "decrease as nuclear charge increases.",
+        "decreases as nuclear charge decreases.",
+        "remains constant as nuclear charge increase."
       ],
-      "answer": "Field"
+      "answer": "decrease as nuclear charge increases."
     },
     {
       "number": 35,
-      "question": "Which of these is not an object in Microsoft Access?",
+      "question": "The energy required to remove the most loosely bound electron from an atom in the gaseous state is known as the",
       "options": [
-         "Table",
-         "Form",
-         "Chart",
-         "Query"
+        "bond energy.",
+        "ionization energy.",
+        "potential energy.",
+        "activation energy."
       ],
-      "answer": "Chart"
+      "answer": "ionization energy."
     },
     {
       "number": 36,
-      "question": "Database can also be called?",
+      "question": "Which of the following decrease(s) from left to right across the period but increase(s) down the group in the periodic table? I. Ionization energy II. Electron affinity III. Electronegativity IV. Atomic radius",
       "options": [
-         "Data bank",
-         "Base for data",
-         "Data Link",
-         "All of Above"
+        "IV only.",
+        "I & II.",
+        "III & IV.",
+        "I, II & III."
       ],
-      "answer": "Data bank"
+      "answer": "IV only."
     },
     {
       "number": 37,
-      "question": "Which of the following connects two tables in a database?",
+      "question": "Which of the following indicates the correct increasing order of oxidizing power of the halogens?",
       "options": [
-         "Field",
-         "Primary Key",
-         "Query",
-         "Form"
+        "F < Cl < Br < I.",
+        "I < Br < Cl < F.",
+        "I < Cl < Br < F.",
+        "Br < F < I < Cl."
       ],
-      "answer": "Primary Key"
+      "answer": "I < Br < Cl < F."
     },
     {
       "number": 38,
-      "question": "In database terminology, a field is also known as a ______?",
+      "question": "Which of the following Group 1 elements has the highest ionization energy?",
       "options": [
-         "File",
-         "Attribute",
-         "Record",
-         "Query"
+        "⁵⁵Cs.",
+        "³⁷Rb.",
+        "¹⁹K.",
+        "³Li."
       ],
-      "answer": "Attribute"
+      "answer": "³Li."
     },
     {
       "number": 39,
-      "question": "What is the default file extension for a Microsoft Access database?",
+      "question": "Consider the reaction represented by the equation: 2H₂SO₄(aq) + C(s) → 2H₂O(l) + 2SO₂(g) + CO₂(g). H₂SO₄ is acting as",
       "options": [
-         ".xls",
-         ".docx",
-         ".accdb",
-         ".pptx"
+        "a catalyst",
+        "an oxidizing agent",
+        "a reducing agent",
+        "a sulphonating agent"
       ],
-      "answer": ".accdb"
+      "answer": "an oxidizing agent"
     },
     {
       "number": 40,
-      "question": "Which tab on the Access ribbon is used to create a new Table objects?",
+      "question": "Which of the following metals is the strongest reducing agent?",
       "options": [
-         "Home",
-         "Create",
-         "External Data",
-         "Database Tools"
+        "sodium",
+        "silver",
+        "potassium",
+        "copper"
       ],
-      "answer": "Create"
+      "answer": "potassium"
     },
     {
       "number": 41,
-      "question": "Which key is used to move to the next field when entering data?",
+      "question": "Reduction is the process of",
       "options": [
-         "Enter",
-         "Tab",
-         "Shift",
-         "Ctrl"
+        "loss of electron",
+        "loss of hydrogen",
+        "loss of oxygen",
+        "addition of electronegative element"
       ],
-      "answer": "Tab"
+      "answer": "loss of electron"
     },
     {
       "number": 42,
-      "question": "In Access, data type “Date/Time” is used to store _____?",
+      "question": "When an atom gains an electron, it becomes",
       "options": [
-         "Numbers only",
-         "Text only",
-         "Dates and time values",
-         "Currency values"
+        "chemically inactive",
+        "negatively charged",
+        "oxidized",
+        "a carbon"
       ],
-      "answer": "Dates and time values"
+      "answer": "negatively charged"
     },
     {
       "number": 43,
-      "question": "Which of the following is not a data type in Access?",
+      "question": "Which of the following substances is not a reducing agent?",
       "options": [
-         "Text",
-         "Currency",
-         "Number",
-         "Paragraph"
+        "C",
+        "CO",
+        "O₂",
+        "H₂"
       ],
-      "answer": "Paragraph"
+      "answer": "O₂"
     },
     {
       "number": 44,
-      "question": "One of these is NOT an object in database?",
+      "question": "How many orbitals are associated with the d-sub energy level?",
       "options": [
-         "Form",
-         "Chair",
-         "Report",
-         "Table"
+        "2",
+        "3",
+        "5",
+        "7"
       ],
-      "answer": "Chair"
+      "answer": "5"
     },
     {
       "number": 45,
-      "question": "One of the following short-cuts assist to shut down the computer system?",
+      "question": "Which of the following ions has the electron configuration 2, 8, 8?",
       "options": [
-         "Ctrl + S",
-         "Alt + F4",
-         "Shift + P",
-         "All of the above"
+        "Na⁺",
+        "Mg²⁺",
+        "F⁻",
+        "Cl⁻"
       ],
-      "answer": "Alt + F4"
+      "answer": "Mg²⁺"
     },
     {
       "number": 46,
-      "question": "What is a database?",
+      "question": "An element with the electron configuration of 1s² 2s² 2p⁶ would have a combining power of",
       "options": [
-         "A place where people dance",
-         "A collection of related data",
-         "A type of computer virus",
-         "A programming language"
+        "0",
+        "2",
+        "8",
+        "6"
       ],
-      "answer": "A collection of related data"
+      "answer": "0"
     },
     {
       "number": 47,
-      "question": "What is the main purpose of a database?",
+      "question": "An element has electronic configuration 1s² 2s² 2p⁶ 3s² 3p⁴. To what period does it belong in the periodic table?",
       "options": [
-         "To destroy information",
-         "To store and manage information easily",
-         "To play music",
-         "To print documents"
+        "3",
+        "6",
+        "4",
+        "5"
       ],
-      "answer": "To store and manage information easily"
+      "answer": "3"
     },
     {
       "number": 48,
-      "question": "Which of the following can be used to create and manage a database?",
+      "question": "Which of the following substances is a non-electrolyte?",
       "options": [
-         "Microsoft Word",
-         "Microsoft Access",
-         "Paint",
-         "PowerPoint"
+        "H₂SO₄",
+        "CH₃COOH",
+        "C₆H₁₂O₆",
+        "NH₄Cl"
       ],
-      "answer": "Microsoft Access"
+      "answer": "C₆H₁₂O₆"
     },
     {
       "number": 49,
-      "question": "What is a record in a database?",
+      "question": "The electrons that are mostly removed from ²⁴₁₂Mg are in which orbital?",
       "options": [
-         "A row of related information about one person or item",
-         "A computer game",
-         "A drawing tool",
-         "A database software"
+        "1s",
+        "2s",
+        "2p",
+        "3s"
       ],
-      "answer": "A row of related information about one person or item"
+      "answer": "3s"
     },
     {
       "number": 50,
-      "question": "In a student database, which of the following could be a field?",
+      "question": "How many unpaired electrons are there in an atom of element having 1s² 2s² 2p⁶?",
       "options": [
-         "Name",
-         "Student",
-         "Record",
-         "Database"
+        "1",
+        "0",
+        "2",
+        "6"
       ],
-      "answer": "Name"
+      "answer": "0"
     }
   ]
-
-
