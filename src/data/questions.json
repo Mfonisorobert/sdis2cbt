@@ -1,52 +1,302 @@
 [
-    {"number":1,"question":"A cheque payable to whoever presents it is","options":["Crossed cheque","Bearer cheque","Order cheque","Stale cheque"],"answer":"Bearer cheque"},
-    {"number":2,"question":"Road transport is best for","options":["Long-distance heavy goods","Door-to-door delivery","Very large cargo","International goods"],"answer":"Door-to-door delivery"},
-    {"number":3,"question":"A typewriter is mainly used for","options":["Filing","Typing documents","Storing goods","Sending messages"],"answer":"Typing documents"},
-    {"number":4,"question":"The process of receiving, recording, sorting and dispatching letters is","options":["Filing","Mail handling","Photocopying","Storing"],"answer":"Mail handling"},
-    {"number":5,"question":"Which of the following is NOT an office equipment?","options":["Photocopier","Stapler","Airplane","Computer"],"answer":"Airplane"},
-    {"number":6,"question":"A cheque with errors must be","options":["Destroyed","Corrected by the bank","Returned to drawer","Paid immediately"],"answer":"Returned to drawer"},
-    {"number":7,"question":"The transfer of ideas from one person to another is","options":["Marketing","Advertising","Communication","Production"],"answer":"Communication"},
-    {"number":8,"question":"The primary function of communication is to","options":["Store goods","Send messages","Increase prices","Reduce staff"],"answer":"Send messages"},
-    {"number":9,"question":"A written order from a bank customer to the bank to pay a stated amount is a","options":["Voucher","Cheque","Ledger","Receipt"],"answer":"Cheque"},
-    {"number":10,"question":"Water transport is mainly used for","options":["Air travel","Long-distance bulk goods","Parcels","Urgent delivery"],"answer":"Long-distance bulk goods"},
-    {"number":11,"question":"Good communication helps to","options":["Increase conflicts","Reduce understanding","Improve teamwork","Delay decisions"],"answer":"Improve teamwork"},
-    {"number":12,"question":"Which device sends documents through telephone lines?","options":["Printer","Shredder","Fax machine","Laminator"],"answer":"Fax machine"},
-    {"number":13,"question":"A cheque that the bank refuses to honour is","options":["Open cheque","Stale cheque","Dishonoured cheque","Crossed cheque"],"answer":"Dishonoured cheque"},
-    {"number":14,"question":"One advantage of advertising is","options":["It reduces sales","It increases product awareness","It creates confusion","It discourages demand"],"answer":"It increases product awareness"},
-    {"number":15,"question":"An advertisement placed in newspapers is","options":["Outdoor","Print media","Electronic media","Direct mail"],"answer":"Print media"},
-    {"number":16,"question":"A short message sent through mobile phone is a form of","options":["Oral communication","Written communication","Non-verbal communication","Visual communication"],"answer":"Written communication"},
-    {"number":17,"question":"Which of this equipment is used for securing papers together?","options":["Shredder","Stapler","Laminator","Projector"],"answer":"Stapler"},
-    {"number":18,"question":"Transport-by-air is best for","options":["Heavy goods","Perishable goods","Very cheap goods","Immovable goods"],"answer":"Perishable goods"},
-    {"number":19,"question":"Upward communication moves from","options":["Customers to workers","Managers to clerks","Lower level to higher level","Higher level to lower level"],"answer":"Lower level to higher level"},
-    {"number":20,"question":"Advertising that targets the final consumer is","options":["Trade advertising","Direct advertising","Consumer advertising","Industrial advertising"],"answer":"Consumer advertising"},
-    {"number":21,"question":"A cheque that is no longer valid after six months is","options":["Stale cheque","Open cheque","Valid cheque","Crossed cheque"],"answer":"Stale cheque"},
-    {"number":22,"question":"Equipment used for storing information electronically is","options":["Folder","Hard drive","Envelop","Stapler"],"answer":"Hard drive"},
-    {"number":23,"question":"A form of advertising using radio and TV is","options":["Outdoor advertising","Audio-visual advertising","Display advertising","Print advertising"],"answer":"Audio-visual advertising"},
-    {"number":24,"question":"The fastest means of transportation is","options":["Road","Rail","Air","Water"],"answer":"Air"},
-    {"number":25,"question":"Downward communication flows from","options":["Clerk to manager","Manager to clerk","Worker to supervisor","Customer to staff"],"answer":"Manager to clerk"},
-    {"number":26,"question":"The movement of people and goods from one place to another is known as","options":["Communication","Advertising","Transportation","Distribution"],"answer":"Transportation"},
-    {"number":27,"question":"A cheque dated ahead of its real date is called","options":["Open cheque","Post-dated cheque","Bearer cheque","Stale cheque"],"answer":"Post-dated cheque"},
-    {"number":28,"question":"The person who writes a cheque is the","options":["Payee","Issuer","Drawer","Banker"],"answer":"Drawer"},
-    {"number":29,"question":"Internal communication takes place","options":["Within the organization","Between countries","With customers only","Only through the internet"],"answer":"Within the organization"},
-    {"number":30,"question":"An example of office procedure is","options":["Punching holes","Paying wages","Storing raw materials","Filing letters"],"answer":"Filing letters"},
-    {"number":31,"question":"Which of these is a purpose of advertising?","options":["To confuse buyers","To inform consumers","To reduce quality","To increase costs"],"answer":"To inform consumers"},
-    {"number":32,"question":"A computer monitor is an example of","options":["Output device","Input device","Storage device","Processing device"],"answer":"Output device"},
-    {"number":33,"question":"The last stage in office procedure is","options":["Filing","Receiving","Dispatching","Storing"],"answer":"Dispatching"},
-    {"number":34,"question":"A form of advertising done on billboards is called","options":["Print advertising","Outdoor advertising","Media advertising","Direct advertising"],"answer":"Outdoor advertising"},
-    {"number":35,"question":"A cheque with two parallel lines on it is a","options":["Dishonoured cheque","Open cheque","Crossed cheque","Bearer cheque"],"answer":"Crossed cheque"},
-    {"number":36,"question":"Which of the following equipment is used to duplicate documents?","options":["Scanner","Photocopier","Fax machine","Stapler"],"answer":"Photocopier"},
-    {"number":37,"question":"The sequence of activities carried out in an office to achieve goals is called","options":["Office routine","Office procedure","Office methods","Office practice"],"answer":"Office procedure"},
-    {"number":38,"question":"Transport by rail is suitable for","options":["Fragile goods","Large and bulky goods","Letters","Urgent goods"],"answer":"Large and bulky goods"},
-    {"number":39,"question":"Horizontal communication occurs between","options":["Different departments","Top and bottom levels","Outside the business","Customers and workers"],"answer":"Different departments"},
-    {"number":40,"question":"A cheque that can be cashed only through a bank account is a","options":["Dishonoured cheque","Bearer cheque","Crossed cheque","Blank cheque"],"answer":"Crossed cheque"},
-    {"number":41,"question":"The main advantage of rail transport is","options":["Speed","Cheap for bulky goods","Door-to-door delivery","Flexibility"],"answer":"Cheap for bulky goods"},
-    {"number":42,"question":"Advertising aims to","options":["Reduce production","Inform and persuade customers","Discourage buying","Increase government revenue"],"answer":"Inform and persuade customers"},
-    {"number":43,"question":"Another name for office equipment used for calculations is","options":["Calculator","Folder","File","Scanner"],"answer":"Calculator"},
-    {"number":44,"question":"A document used to request the bank to pay a third party is a","options":["Cheque","Invoice","Receipt","Note"],"answer":"Cheque"},
-    {"number":45,"question":"A cheque that is payable to a named person only is a","options":["Bearer cheque","Open cheque","Order cheque","Dishonoured cheque"],"answer":"Order cheque"},
-    {"number":46,"question":"Advertising that is designed for the business community is","options":["Consumer advertising","Institutional advertising","Trade advertising","Direct advertising"],"answer":"Trade advertising"},
-    {"number":47,"question":"Office equipment used for fast numerical calculations is","options":["Typewriter","Calculator","Projector","Scanner"],"answer":"Calculator"},
-    {"number":48,"question":"The movement of information between departments at the same level is","options":["Downward communication","Upward communication","Horizontal communication","Grapevine communication"],"answer":"Horizontal communication"},
-    {"number":49,"question":"An advertisement that uses television is","options":["Audio advertising","Printed advertising","Electronic advertising","Outdoor advertising"],"answer":"Electronic advertising"},
-    {"number":50,"question":"Equipment used for attaching papers together is","options":["Photocopier","Stapler","Laminator","Printer"],"answer":"Stapler"}
+    {
+      "number": 1,
+      "question": "The process of identifying, anticipating, and satisfying customer needs is known as",
+      "options": ["selling", "marketing", "branding", "producing"],
+      "answer": "marketing"
+    },
+    {
+      "number": 2,
+      "question": "Warranty and packaging are components of the",
+      "options": ["price variable", "product variable", "place variable", "promotion variable"],
+      "answer": "product variable"
+    },
+    {
+      "number": 3,
+      "question": "Market segmentation is the process of dividing a market based on",
+      "options": ["production units", "similar needs and characteristics", "number of sellers", "number of producers"],
+      "answer": "similar needs and characteristics"
+    },
+    {
+      "number": 4,
+      "question": "Pipeline transportation is mainly used for",
+      "options": ["cocoa", "petroleum", "furniture", "electronics"],
+      "answer": "petroleum"
+    },
+    {
+      "number": 5,
+      "question": "The societal marketing concept emphasizes",
+      "options": ["profit", "customer welfare", "selling", "production quantity"],
+      "answer": "customer welfare"
+    },
+    {
+      "number": 6,
+      "question": "A product that has no close substitute is referred to as",
+      "options": ["branded", "monopolistic", "differentiated", "unique"],
+      "answer": "unique"
+    },
+    {
+      "number": 7,
+      "question": "A major limitation of sea transport is",
+      "options": ["speed", "low-capacity", "high-cost", "suitability for perishables"],
+      "answer": "speed"
+    },
+    {
+      "number": 8,
+      "question": "The main purpose of advertising is to",
+      "options": ["deceive buyers", "persuade buyers", "reduce production", "increase tax"],
+      "answer": "persuade buyers"
+    },
+    {
+      "number": 9,
+      "question": "Premium offers and coupons are elements of",
+      "options": ["personal selling tools", "direct marketing tools", "sales promotional tools", "advertising tools"],
+      "answer": "sales promotional tools"
+    },
+    {
+      "number": 10,
+      "question": "A person who buys goods to resell is a",
+      "options": ["consumer", "inspector", "producer", "retailer"],
+      "answer": "retailer"
+    },
+    {
+      "number": 11,
+      "question": "A warehouse owned by the government is called",
+      "options": ["bonded warehouse", "public warehouse", "private warehouse", "cooperative warehouse"],
+      "answer": "public warehouse"
+    },
+    {
+      "number": 12,
+      "question": "A voucher received by Adam for a product bought at A.A stores that qualifies him for a price reduction in a repeat purchase is",
+      "options": ["premium", "contest", "sweepstakes", "coupon"],
+      "answer": "coupon"
+    },
+    {
+      "number": 13,
+      "question": "The fastest means of transportation is",
+      "options": ["road", "rail", "sea", "air"],
+      "answer": "air"
+    },
+    {
+      "number": 14,
+      "question": "Consumer goods are meant for",
+      "options": ["resale", "industrial use", "final consumption", "warehouse storage"],
+      "answer": "final consumption"
+    },
+    {
+      "number": 15,
+      "question": "A short memorable phrase used in advertising is called",
+      "options": ["trademark", "slogan", "logo", "copyright"],
+      "answer": "slogan"
+    },
+    {
+      "number": 16,
+      "question": "A document required for exporting goods is",
+      "options": ["mandate form", "consular invoice", "receipt", "debit note"],
+      "answer": "consular invoice"
+    },
+    {
+      "number": 17,
+      "question": "The traditional marketing mix consists of",
+      "options": ["3 Ps", "4 Ps", "5 Ps", "7 Ps"],
+      "answer": "4 Ps"
+    },
+    {
+      "number": 18,
+      "question": "One of the importance of marketing to the economy is",
+      "options": ["reducing competition", "creating employment", "increasing tax rates", "reducing production"],
+      "answer": "creating employment"
+    },
+    {
+      "number": 19,
+      "question": "The activity of designing a product’s appearance is called",
+      "options": ["packaging", "labelling", "branding", "barcoding"],
+      "answer": "packaging"
+    },
+    {
+      "number": 20,
+      "question": "A major advantage of middlemen is",
+      "options": ["increasing product price", "reducing product utility", "making goods available", "causing delays"],
+      "answer": "making goods available"
+    },
+    {
+      "number": 21,
+      "question": "The shortest channel of distribution is",
+      "options": ["producer → consumer", "producer → wholesaler → consumer", "producer → agent → retailer", "producer → retailer → consumer"],
+      "answer": "producer → consumer"
+    },
+    {
+      "number": 22,
+      "question": "Goods that require special temperature control are stored in",
+      "options": ["bonded warehouse", "cold storage", "wholesalers’ warehouse", "manufacturers’ warehouse"],
+      "answer": "cold storage"
+    },
+    {
+      "number": 23,
+      "question": "A transportation document that indicates the quantity and place of delivery of goods is",
+      "options": ["waybill", "invoice", "receipt", "manifest"],
+      "answer": "manifest"
+    },
+    {
+      "number": 24,
+      "question": "A brand name, term, or symbol that identifies a seller is called",
+      "options": ["logo", "label", "trademark", "warrant"],
+      "answer": "trademark"
+    },
+    {
+      "number": 25,
+      "question": "Which concept focuses on “making what the market wants”?",
+      "options": ["Marketing concept", "Product concept", "Selling concept", "Production"],
+      "answer": "Marketing concept"
+    },
+    {
+      "number": 26,
+      "question": "A restriction placed on the quantity of goods imported is called",
+      "options": ["tariff", "quota", "embargo", "levy"],
+      "answer": "quota"
+    },
+    {
+      "number": 27,
+      "question": "The marketing function that involves the movement of goods to the target market is",
+      "options": ["warehousing", "distribution", "pricing", "promotion"],
+      "answer": "distribution"
+    },
+    {
+      "number": 28,
+      "question": "The movement of finished goods from producers to consumers relates to",
+      "options": ["promotion", "price", "distribution", "product"],
+      "answer": "distribution"
+    },
+    {
+      "number": 29,
+      "question": "A major disadvantage of television advertising is",
+      "options": ["low audience reach", "high-cost", "lack of sound", "no visuals"],
+      "answer": "high-cost"
+    },
+    {
+      "number": 30,
+      "question": "The element of the marketing mix that deals with communication with customers is",
+      "options": ["Product", "Price", "Promotion", "Place"],
+      "answer": "Promotion"
+    },
+    {
+      "number": 31,
+      "question": "The selling concept assumes that consumers",
+      "options": ["need no persuasion", "will buy more if price increases", "must be persuaded to buy", "easily return goods"],
+      "answer": "must be persuaded to buy"
+    },
+    {
+      "number": 32,
+      "question": "Which of the following activities is NOT a feature of industrial market?",
+      "options": ["Goods are bought through specialists", "Customers are rational in product selection", "Goods are bought for production purposes", "Goods are bought for final consumption"],
+      "answer": "Goods are bought for final consumption"
+    },
+    {
+      "number": 33,
+      "question": "Goods are stored in a warehouse mainly to create",
+      "options": ["price increase", "time utility", "product design", "advertising"],
+      "answer": "time utility"
+    },
+    {
+      "number": 34,
+      "question": "The document issued for goods stored in a warehouse is",
+      "options": ["warehouse receipt", "invoice", "delivery note", "receipt"],
+      "answer": "warehouse receipt"
+    },
+    {
+      "number": 35,
+      "question": "Which of the following is NOT a function of marketing?",
+      "options": ["Buying", "Selling", "Accounting", "Storage"],
+      "answer": "Accounting"
+    },
+    {
+      "number": 36,
+      "question": "The starting point of the buyer decision making process is",
+      "options": ["information search", "evaluation of alternatives", "problem recognition", "purchase decision"],
+      "answer": "problem recognition"
+    },
+    {
+      "number": 37,
+      "question": "The term 'market' refers to",
+      "options": ["a physical place", "buyers and sellers", "goods on display", "only sellers"],
+      "answer": "buyers and sellers"
+    },
+    {
+      "number": 38,
+      "question": "A major advantage of international marketing is",
+      "options": ["product diversification", "high production cost", "high tariff", "over-dependence on imports"],
+      "answer": "product diversification"
+    },
+    {
+      "number": 39,
+      "question": "“Buy-one-get-one free” is an example of",
+      "options": ["publicity", "personal selling", "sales promotion", "packaging"],
+      "answer": "sales promotion"
+    },
+    {
+      "number": 40,
+      "question": "Which of the following is a type of advertising?",
+      "options": ["persuasive", "distributive", "clerical", "administrative"],
+      "answer": "persuasive"
+    },
+    {
+      "number": 41,
+      "question": "The difference between the cost price and selling price is",
+      "options": ["turnover", "profit", "revenue", "margin"],
+      "answer": "profit"
+    },
+    {
+      "number": 42,
+      "question": "Which mode of transportation is best for perishable goods?",
+      "options": ["Sea", "Air", "Road", "Pipeline"],
+      "answer": "Air"
+    },
+    {
+      "number": 43,
+      "question": "The marketing concept focuses mainly on",
+      "options": ["production", "customer satisfaction", "technology", "promotion"],
+      "answer": "customer satisfaction"
+    },
+    {
+      "number": 44,
+      "question": "The total demand for a product in a market is known as",
+      "options": ["market share", "market potential", "market size", "market target"],
+      "answer": "market size"
+    },
+    {
+      "number": 45,
+      "question": "International marketing faces a major barrier in",
+      "options": ["technology", "language differences", "branding", "advertising"],
+      "answer": "language differences"
+    },
+    {
+      "number": 46,
+      "question": "Marketing is primarily concerned with",
+      "options": ["production", "distribution", "customer satisfaction", "competition"],
+      "answer": "customer satisfaction"
+    },
+    {
+      "number": 47,
+      "question": "A channel that moves goods from producer → retailer → consumer is a",
+      "options": ["direct channel", "zero-level channel", "two-level channel", "one-level channel"],
+      "answer": "one-level channel"
+    },
+    {
+      "number": 48,
+      "question": "The process of setting the amount customers pay is called",
+      "options": ["costing", "accounting", "pricing", "budgeting"],
+      "answer": "pricing"
+    },
+    {
+      "number": 49,
+      "question": "The process of storing goods until needed is known as",
+      "options": ["transporting", "warehousing", "promoting", "packaging"],
+      "answer": "warehousing"
+    },
+    {
+      "number": 50,
+      "question": "One barrier to international marketing is",
+      "options": ["improved technology", "tariff reduction", "language differences", "increased advertising"],
+      "answer": "language differences"
+    }
   ]
